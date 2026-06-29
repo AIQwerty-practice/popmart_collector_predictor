@@ -1,17 +1,11 @@
 FROM python:3.11-slim
 
-RUN useradd -m -u 1000 user
-USER user
+WORKDIR /app
 
-ENV HOME=/home/user \
-    PATH=/home/user/.local/bin:$PATH
-
-WORKDIR $HOME/app
-
-COPY --chown=user requirements.txt .
+COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
-COPY --chown=user . .
+COPY . .
 
 EXPOSE 7860
 
