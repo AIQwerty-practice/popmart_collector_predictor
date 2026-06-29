@@ -1,17 +1,14 @@
-from pathlib import Path
+import json
 import os
 import random
 import urllib.error
 import urllib.request
 
-import joblib
-import pandas as pd
 import streamlit as st
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-MODEL_PATH = PROJECT_ROOT / "model" / "model.pkl"
-FASTAPI_URL = os.getenv("FASTAPI_URL", "http://127.0.0.1:8000").rstrip("/")
+DEFAULT_FASTAPI_URL = "https://bee-ai-popmart-collector-predictor.hf.space"
+FASTAPI_URL = os.getenv("FASTAPI_URL", DEFAULT_FASTAPI_URL).rstrip("/")
 
 
 def interpret_probability(probability: float) -> str:
@@ -24,11 +21,6 @@ def interpret_probability(probability: float) -> str:
     return "Unlikely to buy the next release."
 
 
-@st.cache_resource
-def load_model():
-    return joblib.load(MODEL_PATH)
-
-
 def get_api_status() -> tuple[str, str]:
     try:
         with urllib.request.urlopen(f"{FASTAPI_URL}/health", timeout=0.8) as response:
@@ -37,9 +29,28 @@ def get_api_status() -> tuple[str, str]:
     except (urllib.error.URLError, TimeoutError, OSError):
         pass
     return (
-        "🟡 API optional",
-        "The dashboard still works with the saved model. Start FastAPI with `python -m uvicorn app_api.main:app --reload` to demo REST endpoints.",
+        "🟡 API waking or unavailable",
+        f"Predictions are served by FastAPI at {FASTAPI_URL}. If the Space is sleeping, refresh again in a moment.",
     )
+
+
+def request_prediction(payload: dict) -> dict:
+    request = urllib.request.Request(
+        f"{FASTAPI_URL}/predict",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=20) as response:
+            return json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as error:
+        detail = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"FastAPI returned {error.code}: {detail}") from error
+    except (urllib.error.URLError, TimeoutError, OSError) as error:
+        raise RuntimeError(
+            f"Could not reach the FastAPI prediction endpoint at {FASTAPI_URL}."
+        ) from error
 
 
 CHARACTER_EMOJIS = {
@@ -722,8 +733,8 @@ st.markdown(
             <div class="info-title">🧭 How this works</div>
             <div class="info-list">
                 <div>👤 User enters collector habits.</div>
-                <div>🎨 Streamlit sends the collector profile through the prediction workflow.</div>
-                <div>⚡ FastAPI provides REST endpoints for the saved model.</div>
+                <div>🎨 Streamlit sends the collector profile to FastAPI.</div>
+                <div>⚡ FastAPI receives the request through the /predict endpoint.</div>
                 <div>🤖 FastAPI loads the saved Random Forest model.</div>
                 <div>📊 The model returns collector level and probabilities for display.</div>
             </div>
@@ -736,10 +747,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
-if not MODEL_PATH.exists():
-    st.error("Model file not found. Run `python scripts/train_model.py` from the project root.")
-    st.stop()
 
 st.markdown('<div class="section-title">🛍️ Collector Profile</div>', unsafe_allow_html=True)
 
@@ -801,24 +808,31 @@ with st.form("collector_profile"):
     submitted = st.form_submit_button("🔮 Predict purchase intent")
 
 if submitted:
-    model = load_model()
-    profile = pd.DataFrame(
-        [
-            {
-                "age": age,
-                "monthly_budget_usd": monthly_budget_usd,
-                "collection_size": collection_size,
-                "monthly_purchases": monthly_purchases,
-                "resale_interest": resale_interest,
-                "social_media_engagement": social_media_engagement,
-                "blind_box_risk_tolerance": blind_box_risk_tolerance,
-                "favorite_series": favorite_series,
-                "collector_type": collector_type,
-                "region": region,
-            }
-        ]
-    )
-    probability = float(model.predict_proba(profile)[0][1])
+    profile = {
+        "age": age,
+        "monthly_budget_usd": monthly_budget_usd,
+        "collection_size": collection_size,
+        "monthly_purchases": monthly_purchases,
+        "resale_interest": resale_interest,
+        "social_media_engagement": social_media_engagement,
+        "blind_box_risk_tolerance": blind_box_risk_tolerance,
+        "favorite_series": favorite_series,
+        "collector_type": collector_type,
+        "region": region,
+    }
+
+    try:
+        api_prediction = request_prediction(profile)
+    except RuntimeError as error:
+        st.error(
+            "The FastAPI prediction service is not available right now. "
+            "If this is a Hugging Face Space, it may still be waking up. "
+            "Please wait a moment and click Predict again."
+        )
+        st.caption(str(error))
+        st.stop()
+
+    probability = float(api_prediction["probability"])
     casual_probability = max(0.0, min(1.0, 1 - probability / 0.6))
     enthusiast_probability = max(0.0, min(1.0, 1 - abs(probability - 0.6) / 0.4))
     hardcore_probability = max(0.0, min(1.0, (probability - 0.4) / 0.6))
