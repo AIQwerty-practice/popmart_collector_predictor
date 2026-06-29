@@ -1,0 +1,2001 @@
+age,monthly_budget_usd,collection_size,monthly_purchases,resale_interest,social_media_engagement,blind_box_risk_tolerance,favorite_series,collector_type,region,will_buy_next_release
+19,63.58,21,2,6,9,3,Skullpanda,casual,Oceania,1
+46,87.2,17,3,9,7,4,Skullpanda,trend-chaser,Southeast Asia,1
+42,82.41,22,5,9,6,5,Labubu,casual,East Asia,1
+33,109.62,24,3,8,9,3,Labubu,trend-chaser,Europe,1
+33,56.22,24,2,4,1,5,Labubu,display-focused,North America,1
+50,72.78,27,3,5,2,6,Crybaby,casual,North America,0
+19,102.51,22,5,10,8,9,Labubu,reseller,North America,1
+43,46.05,15,2,2,8,8,Dimoo,casual,East Asia,1
+24,114.74,21,2,7,0,8,Molly,trend-chaser,Southeast Asia,1
+19,110.27,24,0,8,2,5,Skullpanda,reseller,North America,1
+37,98.08,27,2,5,2,7,Hirono,trend-chaser,North America,1
+55,109.1,34,1,9,0,1,Crybaby,trend-chaser,North America,0
+45,70.72,16,2,4,7,1,Molly,casual,Europe,0
+46,151.24,25,3,9,0,10,Crybaby,display-focused,North America,1
+44,142.48,20,2,7,9,6,Molly,completionist,Europe,1
+47,98.92,20,3,0,6,1,Hirono,display-focused,North America,0
+36,90.27,28,3,9,8,4,Labubu,completionist,North America,1
+21,118.66,22,6,7,5,10,Skullpanda,casual,East Asia,1
+49,63.92,26,3,2,10,0,Dimoo,completionist,Oceania,0
+34,110.35,26,2,7,2,4,Hirono,display-focused,North America,0
+36,98.43,28,3,5,6,9,Hirono,casual,North America,1
+30,73.9,20,2,10,0,10,Molly,trend-chaser,North America,1
+23,99.94,18,4,3,9,4,Hirono,trend-chaser,Southeast Asia,1
+53,149.24,20,1,2,6,10,Molly,display-focused,Europe,1
+47,43.81,8,2,0,1,7,Labubu,casual,East Asia,0
+41,56.69,14,2,8,8,4,Labubu,reseller,East Asia,0
+32,77.0,22,3,10,10,8,Labubu,casual,Southeast Asia,1
+48,109.75,19,3,7,0,8,Labubu,completionist,North America,1
+37,97.5,9,1,4,9,3,Dimoo,reseller,North America,1
+33,109.6,26,2,9,8,0,Labubu,casual,Europe,1
+34,74.22,22,4,2,3,8,Skullpanda,casual,Europe,1
+25,87.25,26,1,7,6,0,Labubu,casual,North America,0
+19,128.99,19,3,6,8,8,Dimoo,display-focused,Southeast Asia,1
+38,93.24,26,1,9,5,3,Molly,completionist,East Asia,1
+51,104.17,19,2,10,7,7,Molly,casual,Southeast Asia,1
+18,85.95,15,5,3,0,6,Dimoo,trend-chaser,Oceania,0
+50,68.58,22,2,1,10,0,Crybaby,reseller,Europe,1
+49,112.21,30,4,1,10,0,Crybaby,casual,Southeast Asia,0
+27,125.58,27,3,8,2,6,Molly,completionist,East Asia,1
+41,89.58,31,1,3,5,5,Crybaby,display-focused,Europe,1
+22,60.59,30,1,1,2,0,Dimoo,display-focused,East Asia,1
+46,106.52,17,2,8,4,10,Crybaby,completionist,Oceania,1
+44,102.26,25,4,7,3,2,Labubu,casual,Southeast Asia,1
+30,79.21,13,1,1,9,9,Labubu,casual,East Asia,1
+18,211.24,15,2,7,7,1,Labubu,casual,North America,1
+54,150.85,28,2,7,9,2,Hirono,casual,Southeast Asia,0
+33,101.21,19,2,10,8,5,Labubu,completionist,Europe,1
+51,102.55,26,1,10,7,5,Labubu,trend-chaser,East Asia,1
+43,149.87,26,2,10,1,6,Skullpanda,completionist,East Asia,1
+47,133.22,20,2,9,9,1,Crybaby,trend-chaser,Europe,1
+46,83.94,22,2,8,8,2,Skullpanda,completionist,North America,1
+23,102.96,28,5,7,1,2,Dimoo,casual,East Asia,1
+30,83.37,21,2,5,0,4,Labubu,trend-chaser,North America,1
+34,54.55,26,10,8,8,10,Crybaby,casual,North America,1
+35,44.92,21,2,10,4,5,Labubu,casual,North America,1
+17,94.13,21,3,1,3,10,Molly,trend-chaser,East Asia,1
+37,148.86,37,1,1,4,2,Skullpanda,completionist,North America,1
+22,80.92,10,2,5,9,2,Labubu,trend-chaser,Europe,0
+45,88.16,35,3,3,4,1,Dimoo,casual,Southeast Asia,1
+43,72.9,17,3,5,4,2,Dimoo,reseller,Europe,0
+52,45.81,16,1,3,4,3,Labubu,casual,Southeast Asia,0
+45,76.91,28,6,8,0,4,Labubu,display-focused,Europe,1
+30,86.29,20,0,9,0,7,Labubu,trend-chaser,North America,1
+54,92.41,20,3,3,4,4,Labubu,display-focused,East Asia,1
+32,137.93,24,2,8,0,7,Crybaby,completionist,Europe,1
+29,104.56,26,4,1,8,0,Dimoo,trend-chaser,Oceania,1
+52,138.73,25,2,8,4,10,Labubu,trend-chaser,North America,1
+30,109.51,26,1,7,5,1,Labubu,casual,Southeast Asia,0
+19,105.58,14,2,7,3,0,Hirono,casual,Europe,1
+34,113.22,30,3,5,8,4,Hirono,trend-chaser,Southeast Asia,1
+47,62.23,24,6,1,4,7,Crybaby,completionist,North America,1
+23,119.4,15,4,9,0,2,Labubu,display-focused,East Asia,1
+34,77.07,21,2,1,5,1,Skullpanda,casual,North America,0
+21,78.05,14,2,5,1,9,Labubu,casual,Southeast Asia,0
+43,88.76,27,3,1,6,9,Hirono,trend-chaser,North America,1
+35,74.31,15,3,9,6,8,Molly,display-focused,Europe,1
+29,57.45,30,2,6,5,2,Dimoo,reseller,East Asia,1
+25,86.11,32,2,5,4,5,Labubu,casual,Europe,1
+38,78.2,17,6,3,6,7,Hirono,casual,Southeast Asia,0
+42,77.12,19,4,8,7,4,Labubu,completionist,East Asia,1
+53,82.66,28,4,2,9,1,Hirono,trend-chaser,North America,1
+33,36.89,34,1,7,10,9,Labubu,casual,Southeast Asia,1
+22,77.34,12,2,10,0,10,Hirono,display-focused,Europe,0
+49,146.0,23,7,2,7,1,Labubu,completionist,East Asia,1
+41,141.11,22,2,7,0,7,Dimoo,casual,North America,1
+44,87.29,25,3,3,4,9,Hirono,display-focused,Europe,0
+19,86.13,21,2,10,8,5,Molly,completionist,Southeast Asia,1
+28,33.99,16,5,9,5,0,Molly,casual,Southeast Asia,1
+46,68.99,20,4,3,8,7,Molly,completionist,Southeast Asia,1
+49,112.76,23,1,2,10,10,Molly,casual,East Asia,1
+33,73.62,20,0,0,10,2,Dimoo,completionist,North America,0
+48,128.26,25,6,7,7,1,Labubu,reseller,Europe,1
+49,125.05,14,2,10,7,2,Labubu,trend-chaser,North America,0
+31,68.48,20,1,1,8,8,Molly,completionist,East Asia,1
+51,89.89,24,1,8,2,6,Molly,completionist,North America,0
+27,150.9,19,3,8,3,0,Labubu,display-focused,Oceania,1
+25,48.2,25,6,5,3,6,Dimoo,display-focused,North America,1
+43,74.25,23,1,2,8,8,Labubu,casual,North America,1
+41,46.49,16,1,7,3,2,Crybaby,completionist,Southeast Asia,0
+21,60.55,21,0,6,1,6,Dimoo,casual,North America,0
+49,169.62,17,5,8,8,2,Molly,display-focused,North America,1
+23,74.24,31,2,6,8,0,Hirono,display-focused,East Asia,1
+48,39.66,20,5,0,6,4,Dimoo,completionist,Oceania,1
+16,57.23,11,0,2,9,8,Skullpanda,display-focused,North America,1
+47,44.78,19,0,4,8,7,Molly,display-focused,Europe,1
+47,91.26,31,2,5,9,1,Dimoo,completionist,North America,0
+47,101.46,16,0,3,2,2,Labubu,trend-chaser,East Asia,1
+42,120.06,22,5,9,1,5,Skullpanda,completionist,North America,1
+34,110.3,22,4,3,3,3,Labubu,casual,East Asia,1
+44,49.02,33,4,7,9,3,Skullpanda,trend-chaser,Europe,1
+27,99.41,30,1,3,10,4,Dimoo,casual,Southeast Asia,1
+47,81.26,25,3,10,1,8,Labubu,casual,East Asia,1
+38,127.17,24,2,10,9,6,Labubu,casual,East Asia,1
+34,115.38,30,1,8,5,9,Hirono,display-focused,Europe,1
+36,179.26,31,3,8,8,1,Molly,completionist,North America,1
+38,58.94,36,3,7,7,5,Labubu,completionist,North America,1
+17,55.83,18,1,6,0,6,Molly,reseller,Europe,1
+21,70.62,23,1,6,5,8,Crybaby,completionist,North America,0
+25,82.53,14,4,0,0,5,Dimoo,casual,North America,1
+20,65.38,30,0,10,3,10,Skullpanda,completionist,Europe,1
+33,60.09,39,5,10,8,9,Hirono,reseller,North America,1
+42,96.79,19,2,5,7,7,Dimoo,display-focused,North America,0
+42,70.54,28,3,9,7,4,Hirono,display-focused,East Asia,1
+34,64.33,30,4,4,7,3,Dimoo,completionist,Southeast Asia,0
+50,48.99,32,3,1,0,5,Hirono,completionist,North America,0
+38,34.86,25,2,9,6,5,Dimoo,display-focused,Southeast Asia,1
+19,143.01,16,6,5,5,0,Molly,trend-chaser,North America,1
+46,141.22,24,2,10,5,2,Labubu,casual,Oceania,1
+38,116.81,22,3,2,2,9,Labubu,casual,Europe,1
+41,105.76,34,6,5,7,5,Skullpanda,reseller,Europe,1
+38,68.05,21,1,7,6,10,Crybaby,trend-chaser,East Asia,1
+38,107.5,18,4,1,4,2,Dimoo,completionist,Europe,1
+19,54.37,22,2,10,0,10,Hirono,display-focused,Europe,1
+38,89.03,22,3,6,0,8,Dimoo,trend-chaser,Europe,1
+47,62.28,18,2,1,3,3,Crybaby,display-focused,Oceania,0
+28,107.68,24,2,8,5,6,Dimoo,display-focused,Southeast Asia,1
+40,155.24,20,1,9,10,10,Molly,completionist,Europe,1
+17,57.15,29,1,4,7,6,Skullpanda,display-focused,Southeast Asia,1
+29,69.34,29,3,6,5,10,Molly,completionist,North America,1
+33,88.37,24,1,8,3,1,Labubu,trend-chaser,East Asia,1
+55,41.24,21,3,1,1,1,Labubu,casual,Europe,0
+24,45.52,36,4,5,1,0,Molly,casual,North America,0
+27,153.3,26,5,6,0,3,Labubu,display-focused,Southeast Asia,1
+32,96.96,20,2,3,10,8,Labubu,display-focused,Southeast Asia,1
+55,66.62,22,5,3,0,10,Crybaby,completionist,Southeast Asia,0
+50,84.68,17,3,6,9,5,Molly,trend-chaser,East Asia,1
+17,70.73,21,4,8,6,4,Hirono,completionist,Europe,1
+25,89.41,13,3,4,6,10,Labubu,trend-chaser,East Asia,1
+48,71.76,23,3,1,10,6,Crybaby,casual,North America,1
+18,82.1,17,4,8,8,5,Hirono,casual,Southeast Asia,1
+50,111.55,25,6,1,1,0,Crybaby,display-focused,North America,0
+27,108.64,25,3,0,10,2,Skullpanda,reseller,Southeast Asia,1
+52,149.62,29,3,3,1,7,Dimoo,casual,East Asia,0
+27,99.71,24,5,8,6,7,Molly,casual,North America,1
+33,86.81,14,2,8,7,5,Skullpanda,display-focused,North America,1
+42,159.07,14,4,3,2,7,Dimoo,display-focused,Europe,1
+21,78.77,27,4,5,6,7,Labubu,completionist,North America,1
+38,35.89,24,4,10,7,0,Labubu,trend-chaser,Southeast Asia,1
+36,117.41,14,2,7,10,9,Hirono,casual,North America,0
+47,95.01,22,1,8,10,7,Labubu,completionist,Europe,1
+55,85.2,22,3,0,4,2,Dimoo,casual,North America,0
+42,118.68,13,1,2,7,2,Labubu,casual,North America,0
+32,71.99,24,6,1,9,10,Molly,display-focused,North America,1
+32,36.45,19,3,10,0,2,Molly,completionist,Southeast Asia,0
+32,119.64,15,1,3,7,0,Skullpanda,completionist,East Asia,1
+48,65.73,26,4,5,10,0,Hirono,completionist,Southeast Asia,1
+28,58.01,29,6,6,1,2,Hirono,reseller,Europe,1
+22,37.07,16,5,5,8,6,Labubu,casual,North America,0
+29,115.54,19,2,0,0,5,Molly,reseller,North America,1
+16,32.11,26,3,10,4,8,Hirono,completionist,Europe,1
+20,138.27,22,6,4,9,2,Labubu,casual,North America,0
+19,74.73,17,3,10,10,2,Labubu,display-focused,North America,1
+46,117.8,22,2,8,8,4,Skullpanda,casual,East Asia,1
+44,100.93,27,2,7,7,8,Hirono,casual,North America,1
+43,171.68,29,2,7,2,5,Molly,casual,East Asia,1
+34,99.83,23,3,10,9,8,Labubu,casual,East Asia,1
+44,136.12,14,0,3,7,1,Crybaby,trend-chaser,East Asia,1
+22,68.5,28,3,3,10,4,Crybaby,trend-chaser,Europe,1
+52,45.46,24,4,7,6,4,Dimoo,completionist,East Asia,1
+36,125.28,27,3,2,0,0,Dimoo,reseller,Europe,1
+53,44.99,35,4,8,5,3,Crybaby,trend-chaser,North America,1
+22,115.02,31,3,0,8,3,Dimoo,display-focused,North America,1
+35,55.45,25,4,9,8,5,Hirono,completionist,North America,1
+43,95.75,21,4,3,4,1,Skullpanda,completionist,Europe,1
+35,173.08,27,8,0,1,2,Labubu,trend-chaser,East Asia,1
+33,111.37,24,0,6,9,10,Hirono,reseller,Southeast Asia,1
+22,78.9,26,5,3,9,1,Dimoo,casual,North America,0
+31,101.87,27,2,3,9,8,Molly,completionist,North America,1
+25,69.46,20,1,5,7,5,Dimoo,casual,North America,1
+28,201.92,23,1,6,9,0,Hirono,casual,Oceania,1
+43,63.84,10,4,1,4,4,Molly,completionist,North America,0
+41,82.31,19,2,0,8,5,Hirono,completionist,Europe,0
+40,107.34,29,6,5,5,3,Labubu,casual,North America,1
+30,98.92,18,2,3,8,2,Dimoo,display-focused,Southeast Asia,0
+54,103.41,27,1,6,1,7,Crybaby,completionist,Europe,1
+19,70.02,18,3,8,3,0,Hirono,casual,North America,1
+29,77.63,13,3,6,2,10,Hirono,trend-chaser,Europe,0
+20,122.89,28,6,1,4,3,Dimoo,display-focused,East Asia,1
+29,120.39,32,2,10,8,4,Skullpanda,completionist,Europe,1
+54,99.86,20,0,7,1,1,Dimoo,casual,Oceania,0
+30,143.2,26,2,0,8,9,Molly,trend-chaser,Southeast Asia,1
+52,124.91,21,3,8,9,2,Skullpanda,trend-chaser,Europe,1
+35,118.9,31,0,9,7,8,Skullpanda,casual,Oceania,1
+43,44.69,27,6,6,7,3,Skullpanda,completionist,Southeast Asia,1
+34,99.38,15,3,9,1,0,Molly,reseller,Europe,0
+26,92.3,25,2,9,6,4,Molly,casual,Southeast Asia,0
+46,150.93,24,1,10,2,5,Molly,completionist,Europe,1
+54,28.3,25,2,10,2,5,Labubu,trend-chaser,East Asia,0
+26,80.49,21,2,2,9,10,Skullpanda,display-focused,East Asia,0
+47,89.3,31,3,0,6,5,Labubu,trend-chaser,Southeast Asia,0
+26,55.19,19,8,7,10,8,Crybaby,casual,Southeast Asia,1
+44,59.2,27,10,7,5,4,Labubu,trend-chaser,North America,1
+47,151.14,27,5,6,3,1,Hirono,trend-chaser,East Asia,1
+33,103.25,21,3,2,10,5,Molly,casual,East Asia,1
+45,173.25,23,6,10,6,6,Hirono,display-focused,Southeast Asia,1
+26,79.91,14,2,4,9,4,Dimoo,completionist,Europe,1
+19,48.36,23,2,8,0,8,Crybaby,trend-chaser,North America,0
+19,75.45,18,4,6,5,10,Hirono,casual,North America,1
+33,70.46,20,5,9,8,0,Dimoo,display-focused,North America,1
+52,112.96,28,2,7,8,0,Labubu,reseller,North America,1
+21,111.11,22,2,6,7,3,Skullpanda,display-focused,North America,1
+34,105.32,30,2,9,1,6,Molly,completionist,North America,1
+44,196.54,22,3,0,6,0,Hirono,completionist,Southeast Asia,1
+24,139.7,20,2,7,1,2,Hirono,trend-chaser,Europe,1
+44,60.77,19,1,6,8,4,Molly,casual,Europe,0
+28,126.6,28,4,8,6,4,Dimoo,trend-chaser,East Asia,1
+48,86.97,29,2,2,2,9,Molly,completionist,North America,1
+39,79.04,27,1,6,7,6,Dimoo,trend-chaser,East Asia,1
+37,147.03,21,4,3,7,9,Dimoo,casual,Southeast Asia,1
+23,59.31,22,2,1,0,8,Skullpanda,completionist,Europe,1
+34,123.11,21,1,6,0,4,Hirono,trend-chaser,Europe,0
+50,115.17,25,4,0,2,10,Molly,reseller,North America,1
+16,58.88,23,2,1,0,9,Hirono,casual,Europe,1
+46,44.16,22,3,5,5,5,Dimoo,display-focused,East Asia,1
+35,83.17,26,2,9,9,9,Molly,casual,Europe,1
+44,27.55,12,2,7,0,2,Skullpanda,casual,Europe,1
+42,132.66,22,2,0,6,2,Labubu,completionist,Europe,1
+33,99.23,28,2,1,4,8,Skullpanda,trend-chaser,North America,1
+28,149.04,28,2,4,9,8,Hirono,completionist,North America,1
+41,96.51,30,5,4,5,2,Labubu,casual,East Asia,1
+21,153.28,29,3,0,7,8,Labubu,casual,North America,1
+39,67.59,34,5,2,10,5,Skullpanda,display-focused,East Asia,1
+19,105.18,24,3,1,1,6,Molly,casual,Southeast Asia,1
+41,73.29,20,3,6,3,9,Molly,trend-chaser,East Asia,1
+41,82.14,24,3,7,2,1,Dimoo,casual,North America,0
+19,89.18,22,1,4,1,4,Molly,casual,Europe,0
+46,99.1,24,5,6,7,3,Hirono,reseller,East Asia,1
+32,64.04,33,3,2,0,6,Skullpanda,casual,East Asia,1
+47,103.15,20,2,9,4,1,Dimoo,display-focused,Oceania,1
+17,87.4,25,3,0,1,1,Molly,display-focused,Europe,0
+23,49.34,22,2,5,6,7,Molly,casual,North America,1
+35,41.9,33,4,3,8,0,Skullpanda,completionist,Europe,0
+23,132.87,11,6,4,5,4,Dimoo,display-focused,Southeast Asia,1
+29,34.73,23,2,5,4,10,Crybaby,completionist,East Asia,1
+42,80.55,23,3,7,4,10,Labubu,casual,Southeast Asia,1
+21,47.44,27,3,10,2,1,Skullpanda,display-focused,East Asia,0
+43,163.98,27,3,6,4,10,Dimoo,completionist,Oceania,1
+20,107.38,24,4,2,10,3,Labubu,casual,Europe,1
+23,98.04,25,2,5,0,2,Hirono,casual,Oceania,0
+39,61.85,13,0,5,8,5,Molly,casual,Southeast Asia,0
+47,49.09,28,3,9,1,5,Hirono,casual,Southeast Asia,1
+22,92.35,16,4,6,1,4,Skullpanda,casual,Southeast Asia,1
+27,85.22,17,3,9,3,4,Labubu,trend-chaser,East Asia,0
+53,55.52,26,5,7,2,1,Dimoo,display-focused,East Asia,0
+55,54.79,33,3,6,3,2,Labubu,completionist,East Asia,1
+39,53.77,32,7,3,9,2,Dimoo,casual,Southeast Asia,1
+33,53.08,18,3,2,9,10,Hirono,casual,Southeast Asia,1
+29,66.73,23,1,1,7,5,Skullpanda,reseller,East Asia,0
+40,98.05,30,3,6,1,6,Molly,reseller,Europe,0
+39,104.73,19,4,10,10,4,Skullpanda,trend-chaser,Southeast Asia,1
+27,84.52,41,4,0,9,9,Skullpanda,casual,Southeast Asia,1
+16,90.67,16,3,10,0,8,Dimoo,casual,East Asia,1
+22,106.75,31,1,9,4,7,Dimoo,completionist,Europe,1
+54,38.32,23,5,4,8,3,Molly,display-focused,Southeast Asia,1
+32,93.52,27,5,3,0,3,Dimoo,casual,Southeast Asia,1
+35,142.34,9,5,6,0,10,Hirono,display-focused,Europe,1
+34,79.72,32,1,9,6,10,Dimoo,casual,East Asia,1
+47,130.61,37,1,0,3,3,Molly,trend-chaser,East Asia,0
+18,80.3,17,2,4,4,3,Skullpanda,trend-chaser,East Asia,1
+19,109.64,28,1,0,8,3,Skullpanda,completionist,North America,0
+27,97.25,22,1,7,5,8,Hirono,display-focused,North America,1
+35,53.44,35,1,0,7,10,Hirono,reseller,Southeast Asia,1
+42,58.15,26,7,3,1,9,Hirono,completionist,Southeast Asia,1
+35,153.28,29,2,8,0,9,Labubu,reseller,Europe,1
+33,119.39,33,2,8,2,3,Dimoo,display-focused,Southeast Asia,0
+53,82.45,25,3,2,2,3,Hirono,trend-chaser,Europe,1
+22,78.17,21,5,5,3,9,Labubu,casual,North America,1
+38,62.01,28,2,2,8,4,Labubu,completionist,East Asia,1
+37,100.59,14,1,6,1,2,Labubu,reseller,North America,0
+34,64.05,23,5,0,1,9,Dimoo,trend-chaser,North America,0
+48,74.19,26,3,8,2,5,Skullpanda,trend-chaser,Oceania,0
+26,66.62,27,4,0,3,0,Labubu,display-focused,Europe,1
+54,116.32,21,6,6,2,9,Skullpanda,completionist,North America,1
+29,81.1,23,1,4,2,3,Hirono,casual,Europe,1
+37,90.94,26,2,2,6,3,Hirono,completionist,East Asia,0
+36,53.84,27,1,5,1,5,Dimoo,casual,East Asia,0
+49,66.45,30,1,1,1,2,Hirono,display-focused,Europe,0
+33,91.74,31,3,6,9,9,Dimoo,trend-chaser,Europe,1
+27,45.02,28,3,7,0,7,Hirono,reseller,East Asia,0
+16,78.71,24,2,5,0,6,Molly,display-focused,East Asia,1
+30,85.56,18,2,3,0,2,Hirono,casual,Southeast Asia,1
+49,51.35,34,1,5,5,5,Hirono,display-focused,Europe,0
+16,128.19,14,6,10,7,2,Dimoo,casual,Southeast Asia,1
+51,98.65,13,4,8,7,10,Skullpanda,casual,Oceania,1
+37,80.86,15,6,0,7,8,Molly,trend-chaser,North America,1
+21,64.61,24,4,3,0,1,Molly,display-focused,North America,0
+28,44.41,25,1,0,3,5,Labubu,casual,East Asia,0
+38,124.12,23,3,2,6,8,Labubu,completionist,Southeast Asia,1
+28,71.51,27,4,8,7,5,Molly,casual,North America,1
+20,48.35,19,3,9,3,1,Labubu,display-focused,North America,1
+42,63.91,17,5,5,9,1,Hirono,casual,East Asia,0
+42,102.86,24,3,7,9,8,Dimoo,casual,Southeast Asia,1
+20,94.57,16,2,4,8,5,Hirono,completionist,North America,1
+27,55.62,26,2,5,8,5,Skullpanda,completionist,Europe,1
+25,133.24,21,4,9,10,2,Labubu,display-focused,North America,1
+42,48.12,31,1,3,8,2,Molly,trend-chaser,Oceania,0
+45,144.75,25,1,3,6,4,Hirono,trend-chaser,East Asia,0
+45,92.96,17,4,1,4,5,Labubu,reseller,Europe,1
+53,73.64,29,3,2,3,5,Dimoo,trend-chaser,Southeast Asia,1
+46,77.68,24,2,0,9,9,Labubu,trend-chaser,East Asia,1
+28,88.75,23,4,8,3,2,Molly,trend-chaser,Southeast Asia,1
+20,106.09,24,5,9,6,5,Labubu,casual,North America,1
+40,41.74,25,5,4,5,2,Skullpanda,casual,North America,1
+52,63.11,20,2,6,4,0,Labubu,reseller,Europe,0
+55,87.62,21,2,2,4,4,Hirono,trend-chaser,North America,1
+25,135.37,17,0,0,0,0,Labubu,trend-chaser,Southeast Asia,0
+25,133.21,20,1,5,7,4,Molly,completionist,East Asia,1
+17,157.4,16,3,1,0,6,Labubu,trend-chaser,North America,1
+21,130.56,32,4,9,0,4,Crybaby,completionist,Southeast Asia,1
+38,61.31,9,2,3,2,7,Dimoo,completionist,East Asia,1
+37,85.41,14,5,8,5,3,Dimoo,casual,Europe,1
+30,130.88,27,1,2,3,4,Skullpanda,display-focused,North America,0
+28,125.58,24,2,1,9,9,Hirono,casual,Oceania,1
+49,79.22,27,7,6,10,2,Labubu,casual,East Asia,1
+34,104.9,28,4,2,4,5,Hirono,completionist,Southeast Asia,1
+48,71.36,22,5,4,10,7,Hirono,casual,East Asia,0
+54,46.77,33,2,3,0,3,Labubu,trend-chaser,Europe,0
+28,81.98,31,2,9,1,3,Labubu,display-focused,North America,0
+24,80.03,19,1,5,3,7,Skullpanda,completionist,East Asia,1
+54,70.03,23,6,7,10,0,Labubu,casual,North America,1
+41,106.26,21,3,6,5,2,Molly,trend-chaser,Oceania,0
+27,78.18,25,0,10,7,4,Molly,display-focused,North America,1
+40,100.32,24,5,4,7,2,Labubu,completionist,Europe,1
+36,115.45,20,3,9,5,5,Dimoo,completionist,East Asia,1
+52,207.19,23,5,9,10,6,Skullpanda,completionist,Europe,1
+26,82.52,30,3,10,10,10,Dimoo,completionist,East Asia,1
+55,136.17,24,3,7,4,6,Skullpanda,reseller,Southeast Asia,0
+53,94.02,25,1,10,7,6,Molly,reseller,East Asia,1
+23,96.2,22,3,8,6,7,Skullpanda,display-focused,Southeast Asia,1
+22,82.97,24,2,3,6,2,Hirono,trend-chaser,Europe,0
+37,90.77,18,1,1,1,5,Molly,display-focused,East Asia,0
+17,78.47,30,0,2,2,9,Dimoo,casual,Southeast Asia,0
+27,126.27,22,7,6,10,1,Hirono,display-focused,North America,1
+33,64.01,27,2,1,2,3,Dimoo,display-focused,North America,0
+54,46.61,23,3,2,7,2,Labubu,display-focused,North America,0
+55,69.14,20,1,6,10,10,Labubu,trend-chaser,East Asia,1
+22,66.32,19,5,3,6,3,Skullpanda,completionist,East Asia,1
+51,69.13,16,2,7,2,3,Dimoo,trend-chaser,North America,0
+19,81.25,16,2,10,9,8,Hirono,casual,North America,1
+45,69.23,18,2,0,0,10,Dimoo,completionist,North America,1
+49,80.79,22,4,7,7,0,Labubu,casual,Europe,1
+51,69.31,23,2,9,2,9,Hirono,display-focused,North America,1
+24,101.17,22,4,1,7,7,Dimoo,display-focused,Southeast Asia,0
+51,206.34,30,2,8,5,9,Crybaby,completionist,Oceania,1
+20,93.27,28,3,5,6,0,Hirono,reseller,Southeast Asia,1
+36,70.41,20,1,6,4,0,Skullpanda,casual,Southeast Asia,0
+34,33.92,25,2,0,5,3,Dimoo,casual,Oceania,0
+28,175.71,18,3,4,10,9,Dimoo,display-focused,East Asia,1
+16,95.37,30,5,4,9,5,Molly,casual,East Asia,1
+46,80.51,23,1,1,4,7,Skullpanda,completionist,Southeast Asia,1
+29,34.53,27,4,8,10,2,Labubu,display-focused,East Asia,1
+42,82.18,20,1,5,9,3,Labubu,trend-chaser,Europe,0
+32,90.46,23,5,9,6,9,Dimoo,trend-chaser,North America,1
+30,69.41,23,1,1,6,5,Molly,display-focused,East Asia,1
+51,49.78,26,2,8,0,8,Dimoo,trend-chaser,Southeast Asia,0
+19,48.6,27,4,6,5,7,Skullpanda,reseller,East Asia,0
+45,176.94,30,4,7,2,1,Hirono,casual,Europe,1
+45,89.42,20,4,3,1,10,Dimoo,trend-chaser,East Asia,1
+31,69.39,33,4,7,9,10,Hirono,display-focused,Southeast Asia,1
+26,87.3,26,4,2,2,8,Skullpanda,completionist,Southeast Asia,1
+16,84.94,15,1,8,6,5,Crybaby,completionist,Europe,1
+53,47.73,23,6,4,9,4,Molly,trend-chaser,Europe,1
+53,122.81,19,7,5,6,3,Hirono,reseller,Europe,1
+25,79.68,24,1,6,8,7,Skullpanda,trend-chaser,Southeast Asia,1
+17,89.91,27,6,0,8,3,Labubu,display-focused,North America,1
+20,151.14,17,2,4,4,2,Dimoo,trend-chaser,Southeast Asia,1
+18,50.32,22,5,2,10,0,Skullpanda,completionist,North America,1
+49,62.74,29,6,10,9,4,Molly,reseller,Oceania,1
+51,97.42,19,4,4,3,8,Molly,trend-chaser,Europe,1
+22,121.81,14,1,0,9,8,Labubu,casual,East Asia,0
+45,66.88,20,1,0,2,9,Crybaby,display-focused,East Asia,0
+23,68.36,30,5,10,1,6,Dimoo,trend-chaser,Southeast Asia,1
+30,110.13,22,3,1,5,9,Labubu,trend-chaser,Southeast Asia,1
+39,199.07,18,2,0,6,8,Hirono,reseller,North America,1
+44,88.46,26,2,2,6,8,Dimoo,display-focused,North America,1
+50,62.66,22,3,2,8,5,Dimoo,casual,North America,1
+17,55.86,11,4,0,4,0,Skullpanda,completionist,East Asia,1
+23,81.15,19,3,10,8,4,Labubu,display-focused,East Asia,1
+27,119.49,16,1,0,9,9,Labubu,trend-chaser,North America,1
+28,237.92,23,4,8,1,8,Hirono,completionist,Southeast Asia,1
+55,75.85,16,2,9,4,0,Dimoo,display-focused,North America,1
+47,88.51,27,2,7,2,1,Dimoo,display-focused,Europe,1
+28,164.0,21,3,1,7,7,Labubu,trend-chaser,Europe,1
+54,96.77,27,1,7,4,10,Hirono,completionist,East Asia,1
+35,93.53,18,3,3,3,8,Skullpanda,casual,North America,1
+36,150.32,27,4,4,2,10,Dimoo,display-focused,Southeast Asia,1
+33,89.34,20,6,2,3,0,Molly,display-focused,East Asia,1
+21,57.58,21,5,8,1,9,Hirono,display-focused,East Asia,0
+53,137.25,14,2,6,1,1,Crybaby,reseller,North America,1
+16,44.93,33,4,1,6,9,Molly,casual,Southeast Asia,1
+22,127.55,16,3,4,10,10,Hirono,display-focused,Southeast Asia,1
+25,85.73,23,2,8,5,5,Dimoo,display-focused,Europe,1
+27,76.17,17,0,10,10,5,Molly,display-focused,North America,0
+21,75.4,34,2,10,1,5,Molly,completionist,Europe,0
+16,81.03,26,5,1,10,6,Dimoo,completionist,Europe,1
+43,71.88,27,5,9,6,9,Molly,casual,North America,1
+54,102.46,18,3,6,8,3,Labubu,casual,East Asia,1
+20,72.86,21,3,8,0,3,Hirono,reseller,Europe,0
+27,39.46,22,3,4,6,10,Skullpanda,trend-chaser,Southeast Asia,1
+36,85.98,29,3,7,4,9,Dimoo,casual,Europe,1
+53,38.67,24,4,2,9,5,Dimoo,casual,East Asia,1
+43,85.76,21,5,5,8,2,Skullpanda,trend-chaser,Oceania,1
+46,71.32,24,1,2,9,10,Hirono,casual,Europe,0
+39,123.65,19,2,4,9,9,Labubu,trend-chaser,North America,1
+32,77.41,22,3,4,7,3,Molly,trend-chaser,East Asia,1
+23,116.22,26,1,9,2,5,Dimoo,casual,Europe,0
+50,110.8,24,1,6,3,4,Crybaby,casual,Southeast Asia,1
+48,112.05,18,2,7,9,9,Molly,trend-chaser,Southeast Asia,1
+17,155.63,27,4,3,6,7,Crybaby,casual,East Asia,1
+44,78.5,21,5,4,9,5,Dimoo,completionist,Oceania,1
+19,88.0,23,1,5,8,10,Skullpanda,casual,North America,1
+45,101.35,13,3,8,6,6,Skullpanda,completionist,North America,1
+49,89.08,12,4,2,1,5,Labubu,trend-chaser,North America,1
+21,77.48,28,2,0,10,10,Dimoo,completionist,East Asia,1
+33,59.57,24,6,5,2,4,Labubu,casual,North America,0
+20,86.38,23,2,8,2,4,Skullpanda,completionist,North America,0
+38,46.67,22,4,8,1,4,Labubu,completionist,Oceania,1
+53,37.73,27,1,8,0,2,Crybaby,casual,North America,0
+19,54.47,26,4,4,4,3,Molly,reseller,North America,1
+31,111.52,21,2,2,9,1,Skullpanda,completionist,Europe,0
+54,94.3,16,1,7,9,8,Molly,casual,North America,1
+28,111.98,27,1,0,5,6,Labubu,trend-chaser,North America,0
+21,64.91,26,2,9,3,10,Molly,display-focused,North America,1
+35,128.91,26,5,7,3,6,Hirono,casual,North America,1
+36,48.61,28,2,5,10,0,Dimoo,casual,Southeast Asia,1
+42,55.23,15,1,2,0,6,Skullpanda,display-focused,Europe,0
+28,127.96,24,4,2,0,1,Hirono,display-focused,East Asia,1
+54,91.57,14,2,10,0,0,Labubu,casual,East Asia,0
+36,112.26,25,2,0,9,7,Hirono,reseller,Southeast Asia,1
+27,94.46,28,3,0,0,0,Labubu,completionist,Southeast Asia,1
+54,68.47,19,4,3,10,4,Hirono,casual,Europe,1
+52,52.8,25,2,2,2,9,Crybaby,completionist,North America,1
+35,40.91,21,0,7,6,2,Hirono,reseller,North America,0
+16,170.04,31,4,0,10,7,Labubu,display-focused,North America,1
+39,44.32,15,2,8,1,4,Skullpanda,trend-chaser,Southeast Asia,0
+38,148.15,26,5,8,3,1,Hirono,casual,East Asia,1
+21,89.56,24,5,2,8,2,Skullpanda,casual,North America,1
+41,95.63,27,2,6,8,0,Molly,casual,North America,1
+49,93.12,18,3,7,9,1,Skullpanda,display-focused,Southeast Asia,1
+20,106.53,30,4,9,0,1,Labubu,display-focused,East Asia,1
+44,62.52,22,4,8,8,9,Skullpanda,casual,North America,1
+21,36.09,25,2,10,3,8,Labubu,completionist,Southeast Asia,1
+45,67.92,22,5,1,6,3,Dimoo,trend-chaser,East Asia,0
+32,102.88,12,4,6,9,7,Molly,reseller,Europe,1
+16,55.43,26,3,8,9,2,Labubu,completionist,Europe,1
+54,130.24,28,1,2,2,7,Labubu,completionist,East Asia,0
+22,81.62,18,5,2,5,2,Crybaby,reseller,North America,0
+39,53.53,18,3,1,3,7,Skullpanda,display-focused,Oceania,1
+23,91.21,21,5,10,6,3,Dimoo,display-focused,Southeast Asia,1
+53,102.18,30,2,9,9,9,Hirono,display-focused,East Asia,0
+45,105.18,24,2,1,3,9,Dimoo,casual,East Asia,1
+48,27.87,19,3,2,1,3,Molly,completionist,Oceania,0
+33,26.83,22,4,5,0,0,Dimoo,display-focused,North America,0
+34,128.02,35,6,9,0,3,Molly,casual,North America,1
+41,47.27,23,1,9,4,3,Skullpanda,casual,Southeast Asia,0
+47,128.1,18,1,9,10,4,Labubu,reseller,North America,1
+49,133.06,19,2,9,2,6,Crybaby,casual,East Asia,1
+16,52.84,34,1,6,4,10,Skullpanda,display-focused,Europe,1
+42,56.78,17,3,3,7,0,Labubu,casual,North America,0
+20,114.6,16,2,6,7,6,Dimoo,casual,North America,0
+27,73.04,25,3,5,2,1,Labubu,reseller,Southeast Asia,1
+49,141.38,28,3,10,1,6,Skullpanda,casual,North America,1
+26,158.17,25,3,4,1,7,Hirono,casual,North America,1
+47,53.51,20,5,8,2,8,Hirono,trend-chaser,Europe,1
+34,62.05,31,5,1,0,6,Dimoo,display-focused,North America,1
+25,89.32,28,5,7,5,1,Skullpanda,completionist,East Asia,0
+29,35.76,17,1,4,7,10,Skullpanda,completionist,Oceania,1
+37,41.32,24,3,4,7,4,Labubu,casual,East Asia,1
+46,59.36,36,3,8,9,5,Dimoo,display-focused,East Asia,1
+40,181.78,32,1,5,3,7,Skullpanda,display-focused,Europe,1
+53,94.82,29,2,0,7,2,Labubu,casual,Oceania,1
+50,65.93,35,1,4,9,10,Labubu,casual,Southeast Asia,1
+46,56.61,21,1,10,0,0,Labubu,completionist,Southeast Asia,0
+40,52.62,20,1,10,8,1,Molly,casual,North America,0
+27,67.79,12,3,6,0,10,Labubu,casual,North America,1
+32,66.29,31,3,7,6,4,Molly,completionist,North America,1
+20,78.19,31,6,2,9,9,Skullpanda,display-focused,North America,1
+30,104.17,21,2,8,5,9,Skullpanda,completionist,North America,1
+53,82.99,23,2,6,6,10,Labubu,casual,Southeast Asia,1
+33,117.44,30,0,0,6,7,Skullpanda,completionist,North America,1
+20,75.98,25,3,10,6,7,Hirono,trend-chaser,North America,0
+42,163.45,22,4,9,8,6,Molly,completionist,Southeast Asia,1
+54,116.25,22,2,0,9,7,Molly,trend-chaser,Oceania,1
+50,93.78,21,3,4,1,2,Skullpanda,display-focused,North America,1
+26,104.32,24,1,8,4,8,Labubu,casual,North America,1
+34,68.51,36,6,8,9,2,Molly,display-focused,Southeast Asia,1
+37,77.69,24,4,1,4,5,Skullpanda,display-focused,Oceania,1
+25,76.5,16,3,0,5,4,Molly,trend-chaser,East Asia,1
+26,62.93,25,5,10,8,8,Hirono,display-focused,Europe,1
+25,49.34,19,3,9,10,2,Hirono,display-focused,East Asia,1
+55,106.64,31,2,8,2,2,Molly,trend-chaser,Southeast Asia,1
+45,125.17,29,5,7,10,8,Skullpanda,casual,North America,1
+49,100.45,29,1,7,7,5,Crybaby,completionist,Europe,0
+48,82.89,22,1,5,0,7,Skullpanda,display-focused,Southeast Asia,1
+54,195.51,18,2,7,9,9,Crybaby,trend-chaser,East Asia,1
+20,65.61,32,4,3,4,9,Hirono,casual,North America,1
+51,95.07,18,4,0,3,4,Molly,reseller,East Asia,1
+18,132.75,31,2,3,5,1,Labubu,completionist,East Asia,1
+35,54.64,23,4,3,6,10,Labubu,trend-chaser,North America,1
+39,110.0,16,2,3,5,3,Hirono,trend-chaser,Europe,0
+30,168.16,30,3,5,0,8,Molly,reseller,North America,1
+21,85.65,14,3,1,9,8,Dimoo,casual,Oceania,1
+23,91.64,30,3,4,3,4,Skullpanda,display-focused,North America,1
+48,65.76,18,6,5,1,1,Hirono,trend-chaser,Southeast Asia,1
+28,103.83,24,2,2,6,5,Dimoo,completionist,East Asia,1
+28,62.34,23,0,4,6,1,Labubu,trend-chaser,Southeast Asia,1
+52,83.62,27,2,7,1,3,Molly,reseller,Oceania,1
+21,47.16,22,2,4,10,4,Skullpanda,display-focused,Oceania,1
+52,30.81,30,2,0,6,5,Hirono,casual,Southeast Asia,0
+52,70.86,21,4,7,10,2,Dimoo,display-focused,Europe,1
+39,70.41,29,2,6,7,9,Skullpanda,completionist,North America,1
+22,73.24,19,4,4,0,0,Hirono,display-focused,North America,0
+22,114.79,26,2,0,2,10,Skullpanda,casual,East Asia,1
+27,126.65,17,1,0,10,3,Labubu,reseller,Europe,1
+39,96.68,29,2,0,6,5,Hirono,casual,Europe,1
+22,111.46,20,3,9,1,9,Skullpanda,display-focused,North America,1
+34,63.03,20,3,3,0,7,Hirono,display-focused,Southeast Asia,0
+20,57.32,21,2,4,5,0,Molly,display-focused,North America,1
+37,104.69,32,3,7,6,6,Skullpanda,casual,North America,1
+16,54.37,21,5,7,2,6,Molly,reseller,East Asia,1
+44,52.15,19,3,0,2,10,Molly,trend-chaser,East Asia,0
+18,241.6,27,6,10,6,6,Labubu,completionist,Southeast Asia,1
+23,87.87,27,2,2,4,10,Dimoo,trend-chaser,East Asia,1
+22,70.43,22,3,8,0,5,Molly,casual,Southeast Asia,1
+49,67.33,27,5,9,0,2,Molly,casual,North America,1
+18,47.63,21,2,5,2,5,Molly,casual,North America,0
+33,95.86,22,1,1,6,10,Skullpanda,reseller,East Asia,1
+39,75.91,34,2,5,3,0,Skullpanda,casual,North America,1
+36,125.14,16,5,2,0,4,Dimoo,trend-chaser,Southeast Asia,1
+43,106.03,18,1,9,10,0,Dimoo,completionist,Oceania,1
+48,74.9,20,3,8,7,9,Skullpanda,reseller,North America,1
+31,38.61,29,2,9,6,5,Skullpanda,display-focused,Southeast Asia,1
+49,87.97,23,3,9,2,7,Labubu,reseller,Europe,1
+28,84.82,25,2,1,7,10,Skullpanda,display-focused,North America,1
+55,36.09,29,4,0,10,9,Hirono,completionist,Europe,1
+36,101.06,16,5,6,7,4,Skullpanda,reseller,East Asia,1
+45,53.69,26,4,6,3,10,Crybaby,casual,Oceania,1
+51,127.88,23,9,9,4,5,Labubu,trend-chaser,North America,1
+47,82.77,27,2,7,10,10,Dimoo,completionist,East Asia,1
+50,66.6,29,2,8,0,10,Dimoo,reseller,North America,1
+37,92.96,31,7,3,2,2,Dimoo,casual,North America,0
+17,90.65,26,2,1,1,8,Dimoo,casual,East Asia,1
+35,89.31,30,3,0,7,7,Labubu,casual,Southeast Asia,1
+23,120.79,29,2,4,5,8,Dimoo,completionist,East Asia,1
+51,95.25,24,3,0,1,1,Skullpanda,casual,Oceania,1
+25,64.33,23,1,5,10,5,Skullpanda,trend-chaser,North America,1
+25,76.82,24,6,4,6,1,Labubu,trend-chaser,East Asia,1
+25,147.02,24,3,2,2,9,Labubu,casual,North America,1
+41,62.14,31,3,6,10,9,Crybaby,reseller,Southeast Asia,1
+38,100.39,25,2,7,7,6,Molly,casual,North America,1
+53,122.65,22,1,0,1,1,Molly,display-focused,North America,0
+32,104.35,18,1,5,9,7,Labubu,casual,Southeast Asia,0
+27,88.18,24,5,10,0,4,Dimoo,trend-chaser,Europe,1
+17,93.69,20,6,3,9,8,Dimoo,trend-chaser,East Asia,1
+16,107.04,26,1,8,4,1,Crybaby,casual,Oceania,0
+30,61.86,23,1,3,3,4,Skullpanda,casual,Europe,1
+53,85.04,29,0,2,0,3,Molly,display-focused,East Asia,0
+36,195.01,27,3,9,10,10,Labubu,completionist,Oceania,1
+51,101.65,26,4,3,6,3,Molly,casual,East Asia,1
+20,89.44,28,1,9,6,10,Dimoo,trend-chaser,North America,1
+19,73.81,25,7,7,9,10,Crybaby,trend-chaser,Southeast Asia,1
+49,62.12,12,2,8,5,6,Labubu,display-focused,Europe,0
+20,94.96,16,4,8,3,1,Molly,trend-chaser,Southeast Asia,0
+18,97.62,19,5,10,8,2,Dimoo,completionist,East Asia,1
+32,82.78,30,2,6,5,0,Skullpanda,completionist,North America,0
+52,229.95,22,2,10,2,8,Dimoo,reseller,Southeast Asia,1
+43,64.18,18,3,0,9,7,Skullpanda,display-focused,North America,1
+19,58.55,25,3,5,8,3,Molly,completionist,Southeast Asia,1
+49,74.22,20,2,4,2,8,Skullpanda,casual,Southeast Asia,1
+49,83.84,17,2,1,7,6,Molly,completionist,Oceania,0
+48,60.91,12,3,9,10,8,Dimoo,casual,North America,0
+52,94.04,25,5,8,8,0,Labubu,casual,Europe,1
+25,98.14,18,3,8,2,2,Skullpanda,display-focused,North America,1
+55,112.21,22,6,6,9,8,Crybaby,display-focused,Europe,1
+28,69.61,27,2,6,0,4,Skullpanda,casual,Europe,0
+48,141.77,34,2,4,6,10,Labubu,casual,East Asia,1
+39,109.13,25,3,7,5,9,Crybaby,trend-chaser,Europe,1
+47,63.68,21,3,10,0,1,Molly,completionist,Oceania,1
+41,60.8,33,4,2,7,4,Dimoo,display-focused,North America,1
+41,76.2,24,3,3,3,8,Labubu,trend-chaser,Europe,1
+40,98.23,28,1,1,9,1,Hirono,trend-chaser,East Asia,0
+47,104.01,20,4,9,9,9,Labubu,casual,North America,1
+45,109.04,20,2,5,6,1,Molly,completionist,East Asia,1
+21,189.43,14,3,6,6,1,Crybaby,display-focused,East Asia,1
+49,40.37,23,2,2,0,5,Skullpanda,completionist,East Asia,1
+37,42.35,24,5,0,9,2,Molly,completionist,East Asia,1
+28,81.89,23,1,8,7,7,Labubu,casual,Southeast Asia,1
+36,182.41,19,3,9,4,4,Labubu,display-focused,Oceania,1
+54,114.32,22,5,3,0,2,Molly,casual,North America,0
+50,57.2,28,3,8,5,9,Skullpanda,completionist,Europe,1
+49,92.14,23,3,6,9,1,Skullpanda,casual,Southeast Asia,0
+34,79.98,18,2,7,9,5,Crybaby,reseller,North America,0
+47,78.86,20,3,1,1,1,Hirono,completionist,East Asia,0
+31,69.1,15,4,6,8,1,Crybaby,casual,East Asia,0
+43,89.18,26,3,1,0,2,Skullpanda,reseller,North America,1
+41,130.7,12,5,2,4,2,Skullpanda,casual,Europe,0
+25,71.49,27,1,3,4,4,Skullpanda,completionist,Southeast Asia,1
+26,109.37,23,2,2,0,5,Molly,display-focused,North America,1
+18,117.16,26,2,10,1,1,Labubu,casual,North America,1
+21,141.28,19,3,0,9,0,Hirono,casual,Southeast Asia,0
+33,60.41,32,4,9,6,1,Dimoo,casual,Southeast Asia,0
+35,86.39,21,2,1,8,6,Molly,reseller,East Asia,1
+22,66.06,21,3,9,6,10,Skullpanda,completionist,Europe,1
+32,89.25,24,2,3,4,0,Labubu,casual,North America,0
+40,89.01,21,1,10,0,0,Skullpanda,casual,Southeast Asia,0
+25,54.89,19,5,5,6,8,Molly,trend-chaser,North America,1
+29,91.34,33,1,5,8,7,Hirono,casual,Southeast Asia,1
+30,193.65,23,2,1,2,8,Skullpanda,display-focused,Southeast Asia,1
+36,104.17,16,3,4,5,1,Molly,completionist,North America,1
+30,50.84,20,3,6,4,9,Dimoo,casual,East Asia,1
+45,59.01,23,7,10,9,6,Crybaby,trend-chaser,Southeast Asia,1
+29,84.66,17,3,2,1,1,Hirono,casual,Southeast Asia,0
+33,59.52,35,6,0,1,1,Skullpanda,trend-chaser,East Asia,1
+31,138.09,26,3,2,2,6,Molly,display-focused,North America,1
+23,48.68,29,3,2,1,8,Dimoo,casual,East Asia,0
+43,104.46,28,2,10,9,8,Hirono,display-focused,East Asia,1
+25,45.11,28,2,1,2,6,Crybaby,trend-chaser,East Asia,1
+27,84.13,30,1,10,3,5,Skullpanda,completionist,North America,0
+47,56.33,19,5,1,2,7,Dimoo,casual,Southeast Asia,0
+53,112.11,17,3,8,8,1,Molly,trend-chaser,Europe,1
+42,128.43,21,1,4,7,4,Labubu,casual,North America,1
+52,98.12,31,5,0,5,1,Molly,casual,North America,1
+50,130.88,24,5,6,8,9,Labubu,casual,North America,1
+35,33.29,27,4,8,0,6,Skullpanda,trend-chaser,Europe,0
+46,90.88,25,0,9,7,8,Molly,casual,North America,0
+29,103.87,21,2,1,3,5,Dimoo,casual,Europe,0
+34,109.27,33,2,6,4,10,Dimoo,trend-chaser,North America,1
+37,40.62,21,1,6,1,10,Labubu,completionist,North America,1
+54,101.42,28,3,4,1,6,Dimoo,casual,North America,0
+49,110.24,26,3,9,7,9,Labubu,completionist,Europe,1
+35,90.47,14,2,4,9,7,Labubu,casual,Europe,0
+42,51.02,21,3,4,10,7,Crybaby,display-focused,Europe,1
+24,68.9,14,5,5,2,2,Labubu,display-focused,East Asia,0
+48,138.39,28,6,10,8,10,Molly,completionist,Europe,1
+38,131.88,24,4,9,1,2,Dimoo,reseller,East Asia,1
+37,103.1,24,1,7,8,7,Molly,display-focused,North America,1
+46,113.08,34,1,0,6,6,Molly,casual,Europe,1
+41,125.44,25,0,3,9,1,Dimoo,display-focused,North America,0
+18,102.62,23,2,0,0,8,Dimoo,reseller,Europe,0
+27,136.74,20,3,1,8,0,Skullpanda,reseller,East Asia,1
+23,134.85,22,0,9,5,5,Hirono,reseller,Southeast Asia,1
+45,220.3,16,2,8,6,8,Labubu,trend-chaser,East Asia,1
+17,70.01,17,2,1,5,1,Skullpanda,trend-chaser,Europe,0
+24,70.5,26,2,5,7,3,Labubu,trend-chaser,North America,1
+39,29.23,22,2,3,6,5,Labubu,completionist,Oceania,1
+43,99.57,25,2,0,4,10,Crybaby,casual,North America,0
+36,177.71,33,1,4,4,4,Dimoo,completionist,North America,1
+50,141.25,39,2,1,0,1,Labubu,casual,North America,0
+52,118.78,27,4,8,7,1,Molly,casual,Oceania,1
+21,145.31,16,3,10,7,2,Labubu,display-focused,Southeast Asia,1
+54,104.62,24,6,4,6,9,Dimoo,display-focused,North America,1
+40,76.55,21,1,2,7,8,Molly,completionist,North America,1
+41,196.85,29,7,5,2,4,Crybaby,display-focused,Southeast Asia,1
+19,101.54,21,5,10,2,9,Labubu,casual,North America,1
+40,133.62,17,5,1,10,10,Molly,trend-chaser,North America,1
+45,33.22,25,4,7,10,9,Crybaby,completionist,Europe,1
+39,35.25,22,4,1,9,0,Hirono,casual,Europe,0
+19,92.02,27,3,3,0,1,Molly,casual,Europe,1
+36,59.53,20,4,4,6,7,Skullpanda,casual,East Asia,1
+53,95.4,24,3,4,8,4,Hirono,trend-chaser,East Asia,1
+44,70.47,28,4,1,0,1,Dimoo,casual,East Asia,0
+21,234.72,30,3,8,10,7,Dimoo,trend-chaser,North America,1
+54,129.18,21,2,7,8,3,Dimoo,casual,North America,1
+54,151.25,26,4,4,3,10,Crybaby,reseller,Southeast Asia,1
+22,37.49,22,4,4,5,6,Skullpanda,casual,North America,1
+48,118.12,18,2,0,10,2,Labubu,display-focused,Europe,1
+32,80.11,20,2,7,9,10,Skullpanda,display-focused,North America,1
+39,152.49,25,2,2,9,6,Dimoo,display-focused,North America,1
+33,111.1,22,2,3,10,3,Skullpanda,trend-chaser,Europe,1
+47,84.72,27,0,9,8,1,Molly,reseller,North America,1
+55,53.0,31,3,7,10,6,Dimoo,casual,East Asia,1
+47,91.31,29,7,7,10,8,Skullpanda,reseller,Europe,1
+53,137.07,20,5,2,0,9,Crybaby,casual,Southeast Asia,1
+53,156.25,21,4,5,7,1,Molly,trend-chaser,East Asia,1
+19,74.59,29,1,0,3,4,Dimoo,display-focused,North America,1
+26,217.38,18,6,2,5,10,Skullpanda,casual,Southeast Asia,1
+44,132.59,22,2,8,1,7,Labubu,casual,Southeast Asia,1
+39,60.0,27,3,5,7,1,Skullpanda,casual,North America,0
+18,54.87,27,3,6,9,10,Labubu,trend-chaser,East Asia,1
+19,82.12,33,3,8,4,7,Hirono,display-focused,East Asia,1
+36,74.51,35,3,10,7,5,Dimoo,casual,East Asia,1
+40,104.96,29,5,0,3,8,Labubu,reseller,North America,1
+22,87.48,16,1,6,8,7,Skullpanda,casual,North America,1
+22,77.01,12,4,10,0,2,Crybaby,casual,North America,0
+21,46.01,20,4,2,9,8,Molly,completionist,North America,1
+38,112.5,22,1,9,4,2,Crybaby,casual,Europe,1
+16,44.63,34,3,6,5,2,Labubu,trend-chaser,Southeast Asia,1
+38,132.77,22,3,3,8,6,Labubu,completionist,Europe,1
+35,38.86,29,7,8,0,0,Skullpanda,casual,Europe,0
+34,43.73,31,3,9,10,6,Labubu,display-focused,North America,1
+43,59.89,20,4,1,6,6,Hirono,casual,Europe,1
+36,71.91,17,1,7,10,7,Dimoo,completionist,Southeast Asia,1
+45,66.19,35,4,10,6,1,Dimoo,completionist,Southeast Asia,1
+46,71.79,18,1,7,2,6,Dimoo,reseller,Europe,0
+52,96.17,14,4,6,6,4,Dimoo,display-focused,Europe,1
+47,60.43,22,5,1,6,1,Dimoo,reseller,North America,1
+36,96.54,24,4,4,10,4,Dimoo,casual,Oceania,1
+35,33.35,20,6,9,6,10,Hirono,trend-chaser,North America,1
+25,59.56,25,6,8,4,9,Skullpanda,casual,Europe,1
+39,42.99,18,2,4,1,1,Molly,trend-chaser,Europe,1
+21,132.13,16,2,3,3,9,Skullpanda,display-focused,North America,1
+53,63.51,31,8,8,6,6,Skullpanda,casual,North America,1
+49,109.6,16,2,10,4,0,Molly,display-focused,Southeast Asia,1
+20,40.39,25,6,3,3,10,Molly,trend-chaser,North America,1
+47,155.13,27,4,8,0,5,Molly,trend-chaser,North America,1
+20,89.54,29,0,3,10,10,Labubu,reseller,North America,1
+44,188.51,19,3,9,9,1,Hirono,display-focused,North America,1
+19,85.42,22,8,10,2,1,Dimoo,completionist,Oceania,1
+35,46.21,26,2,7,1,9,Molly,casual,East Asia,1
+42,56.76,12,2,5,9,2,Crybaby,completionist,Southeast Asia,1
+45,77.99,25,3,3,9,6,Crybaby,casual,Southeast Asia,1
+32,57.58,33,2,0,9,6,Hirono,trend-chaser,East Asia,1
+52,126.6,20,4,0,6,10,Labubu,completionist,East Asia,1
+46,88.45,25,0,9,8,3,Molly,display-focused,Europe,1
+24,57.86,24,10,7,8,8,Skullpanda,completionist,East Asia,1
+42,118.46,16,2,2,2,8,Dimoo,display-focused,East Asia,1
+45,73.87,37,4,6,5,7,Dimoo,casual,East Asia,1
+29,116.21,28,5,9,2,5,Dimoo,casual,Europe,0
+45,69.22,18,3,7,8,0,Hirono,casual,East Asia,0
+51,106.46,33,5,10,10,2,Crybaby,casual,North America,1
+48,72.84,19,8,1,0,6,Skullpanda,completionist,East Asia,1
+46,126.62,19,0,0,0,4,Crybaby,reseller,Europe,0
+41,40.69,25,5,7,2,2,Hirono,display-focused,East Asia,0
+26,51.41,33,2,6,1,7,Molly,trend-chaser,Europe,1
+47,80.81,30,1,7,0,5,Hirono,trend-chaser,East Asia,1
+30,64.62,26,3,10,10,8,Labubu,casual,East Asia,0
+37,71.95,31,8,1,6,6,Labubu,display-focused,North America,1
+28,111.55,21,2,10,8,4,Crybaby,trend-chaser,Europe,1
+28,71.35,23,3,0,6,1,Skullpanda,casual,North America,1
+22,97.95,32,1,5,8,1,Skullpanda,display-focused,North America,0
+54,59.4,33,3,9,7,5,Crybaby,trend-chaser,North America,1
+21,37.82,22,1,7,1,3,Molly,reseller,Southeast Asia,1
+19,115.91,24,4,2,1,7,Labubu,trend-chaser,Southeast Asia,1
+53,170.5,19,0,6,5,6,Labubu,trend-chaser,North America,1
+38,93.78,18,4,9,4,3,Skullpanda,casual,Southeast Asia,1
+33,82.6,29,1,2,9,8,Labubu,completionist,Europe,1
+45,89.76,21,5,10,3,6,Labubu,reseller,Southeast Asia,1
+31,145.79,28,5,7,3,9,Hirono,casual,Europe,0
+21,94.24,35,1,0,5,10,Molly,casual,East Asia,1
+45,118.28,33,1,3,2,10,Skullpanda,casual,Europe,1
+23,116.08,28,3,9,9,1,Labubu,reseller,North America,1
+38,131.18,23,4,3,0,5,Skullpanda,completionist,North America,1
+53,81.88,22,7,10,9,0,Dimoo,trend-chaser,East Asia,1
+53,68.85,36,5,4,6,9,Skullpanda,display-focused,Southeast Asia,1
+30,106.96,20,4,3,9,7,Molly,completionist,East Asia,1
+47,127.23,22,4,9,3,2,Molly,casual,Southeast Asia,1
+40,137.5,28,2,8,9,6,Labubu,trend-chaser,North America,1
+35,153.57,23,7,2,9,6,Labubu,completionist,Southeast Asia,1
+21,122.38,28,3,8,5,5,Skullpanda,reseller,Southeast Asia,1
+31,67.36,26,5,2,3,5,Labubu,casual,Europe,1
+42,93.74,30,3,9,2,10,Labubu,casual,Europe,1
+55,90.36,18,3,0,1,8,Labubu,casual,North America,0
+16,86.38,32,5,7,6,4,Hirono,reseller,North America,1
+44,107.05,30,4,1,10,8,Skullpanda,casual,North America,1
+49,78.86,29,6,7,6,1,Skullpanda,trend-chaser,East Asia,1
+54,78.9,16,7,10,10,3,Skullpanda,casual,Southeast Asia,1
+32,175.11,16,2,7,8,1,Molly,completionist,North America,0
+20,83.62,24,3,4,7,9,Molly,casual,Southeast Asia,1
+26,130.78,20,2,9,7,0,Molly,casual,Southeast Asia,1
+50,134.02,21,3,2,10,9,Skullpanda,completionist,East Asia,1
+51,94.8,29,4,5,9,9,Molly,display-focused,Oceania,1
+41,80.15,24,1,10,1,10,Labubu,display-focused,Southeast Asia,1
+20,60.33,28,4,3,6,8,Crybaby,completionist,North America,1
+20,44.39,19,2,0,5,5,Dimoo,display-focused,Oceania,1
+35,110.24,18,4,4,9,8,Labubu,completionist,Europe,1
+39,101.07,25,1,5,2,10,Crybaby,completionist,North America,1
+17,117.03,43,3,8,9,9,Labubu,casual,North America,1
+43,70.59,30,2,8,5,8,Labubu,display-focused,East Asia,1
+37,183.02,36,4,3,10,8,Labubu,casual,Oceania,1
+16,104.77,27,2,8,8,7,Crybaby,casual,Europe,1
+19,82.34,22,5,1,3,9,Labubu,casual,East Asia,1
+34,37.06,22,2,2,9,4,Hirono,completionist,North America,1
+44,73.75,34,9,6,2,5,Dimoo,casual,Southeast Asia,1
+49,119.37,15,3,7,0,9,Skullpanda,trend-chaser,North America,1
+33,151.84,16,3,8,5,2,Molly,reseller,East Asia,1
+27,87.6,20,2,6,4,8,Labubu,casual,East Asia,0
+54,162.63,32,1,1,1,1,Dimoo,completionist,North America,1
+34,58.58,23,5,7,10,6,Molly,casual,Oceania,1
+28,102.34,29,2,4,0,0,Skullpanda,casual,Oceania,0
+33,103.54,22,3,2,6,10,Labubu,trend-chaser,Europe,1
+16,110.61,18,4,3,2,9,Hirono,display-focused,East Asia,1
+28,92.51,26,3,8,3,2,Dimoo,casual,Southeast Asia,0
+36,100.03,18,4,1,2,1,Skullpanda,trend-chaser,North America,1
+52,58.04,14,7,6,4,7,Skullpanda,trend-chaser,North America,1
+45,145.5,18,3,0,7,9,Molly,completionist,East Asia,1
+47,125.3,14,2,7,3,3,Molly,completionist,East Asia,1
+37,98.42,27,1,1,7,10,Labubu,reseller,East Asia,1
+20,126.55,38,0,10,4,5,Dimoo,reseller,East Asia,1
+31,147.51,26,1,9,8,4,Labubu,display-focused,East Asia,1
+55,109.94,16,4,9,4,3,Labubu,trend-chaser,North America,1
+17,191.86,26,3,3,4,2,Labubu,completionist,North America,1
+51,113.75,17,1,8,5,3,Labubu,casual,North America,1
+43,61.51,18,3,1,7,1,Skullpanda,casual,Europe,0
+27,96.39,28,2,3,5,4,Dimoo,display-focused,East Asia,1
+47,128.65,18,4,1,9,3,Skullpanda,casual,Southeast Asia,1
+49,147.57,23,2,0,5,0,Molly,casual,Europe,0
+17,93.31,24,8,4,3,3,Skullpanda,display-focused,East Asia,1
+20,59.65,33,2,6,0,0,Skullpanda,trend-chaser,North America,1
+42,79.46,18,2,9,4,1,Hirono,casual,Europe,1
+55,49.93,26,5,0,0,7,Hirono,casual,Oceania,1
+16,118.66,22,1,4,0,0,Hirono,trend-chaser,North America,0
+42,73.38,18,3,7,4,3,Hirono,display-focused,Southeast Asia,0
+21,65.25,21,1,2,3,7,Hirono,reseller,North America,0
+42,123.54,19,4,8,9,0,Skullpanda,completionist,Europe,1
+40,161.19,26,2,6,8,8,Skullpanda,completionist,East Asia,1
+19,65.14,29,2,6,8,0,Dimoo,casual,Southeast Asia,0
+43,93.56,23,6,1,6,0,Labubu,display-focused,East Asia,1
+51,80.8,30,2,1,1,2,Molly,completionist,Southeast Asia,0
+50,150.53,27,2,9,9,9,Crybaby,casual,Southeast Asia,1
+17,84.55,22,4,9,5,0,Skullpanda,casual,East Asia,0
+25,57.51,23,4,4,4,1,Labubu,display-focused,Europe,0
+25,86.18,31,1,6,6,10,Molly,completionist,Europe,0
+34,136.98,27,1,5,1,6,Labubu,display-focused,East Asia,1
+21,78.9,27,5,5,5,6,Molly,completionist,East Asia,0
+50,67.81,15,3,7,6,0,Skullpanda,reseller,Europe,1
+47,83.02,14,3,6,7,4,Skullpanda,casual,Europe,1
+48,58.21,29,2,1,5,6,Skullpanda,trend-chaser,North America,1
+23,80.75,27,6,0,10,5,Labubu,trend-chaser,North America,1
+16,69.83,20,3,9,10,5,Skullpanda,casual,Europe,1
+52,207.59,27,3,8,1,1,Labubu,display-focused,Southeast Asia,1
+27,39.82,39,5,2,0,10,Molly,display-focused,Southeast Asia,1
+42,61.41,13,3,0,5,7,Dimoo,trend-chaser,Oceania,0
+52,67.79,26,0,2,9,2,Labubu,display-focused,East Asia,1
+17,58.36,21,1,6,5,10,Crybaby,display-focused,North America,1
+16,102.75,18,4,6,2,3,Dimoo,trend-chaser,East Asia,0
+16,64.69,27,5,1,6,1,Labubu,completionist,Southeast Asia,1
+22,47.99,22,3,1,10,9,Molly,casual,East Asia,1
+18,90.18,17,3,2,1,1,Labubu,completionist,Europe,1
+48,77.08,28,4,4,4,0,Labubu,reseller,East Asia,0
+40,65.88,20,2,2,7,6,Crybaby,display-focused,North America,0
+55,148.9,19,6,5,4,2,Dimoo,completionist,North America,1
+48,104.18,24,8,0,0,1,Hirono,completionist,North America,1
+54,99.42,22,0,10,7,1,Dimoo,display-focused,Europe,1
+25,105.13,24,2,9,8,1,Crybaby,trend-chaser,Southeast Asia,1
+27,102.92,18,2,3,7,10,Hirono,display-focused,North America,0
+49,78.65,34,5,8,7,7,Labubu,completionist,North America,1
+25,64.96,28,1,5,7,9,Labubu,reseller,Southeast Asia,0
+18,90.99,31,4,0,3,6,Molly,casual,Southeast Asia,1
+42,78.08,22,7,3,0,5,Molly,casual,East Asia,1
+48,39.63,28,2,0,10,2,Skullpanda,trend-chaser,Europe,1
+54,56.44,9,1,7,2,10,Molly,reseller,Europe,1
+53,74.18,25,1,8,9,9,Hirono,display-focused,East Asia,1
+20,124.66,31,4,6,5,5,Labubu,casual,Southeast Asia,1
+46,91.15,20,2,0,5,1,Hirono,casual,North America,0
+49,60.52,21,7,2,0,8,Molly,casual,Southeast Asia,0
+43,54.61,30,4,5,10,3,Labubu,display-focused,East Asia,1
+48,135.91,22,2,1,5,2,Hirono,completionist,East Asia,1
+49,80.11,16,1,1,9,8,Skullpanda,casual,North America,0
+33,28.34,21,1,3,8,9,Dimoo,completionist,Southeast Asia,1
+17,82.17,22,5,6,1,6,Hirono,trend-chaser,East Asia,1
+34,113.47,19,6,0,10,0,Labubu,trend-chaser,Europe,1
+24,53.98,21,3,10,6,6,Molly,trend-chaser,Europe,1
+20,88.36,16,5,5,2,10,Labubu,display-focused,North America,1
+20,91.74,26,7,1,6,7,Labubu,completionist,North America,1
+43,55.2,21,2,0,6,2,Crybaby,display-focused,North America,0
+36,141.19,29,1,10,7,7,Hirono,casual,North America,1
+37,92.39,21,3,6,3,2,Molly,trend-chaser,Europe,1
+45,74.03,28,5,9,10,9,Dimoo,completionist,East Asia,1
+37,80.33,22,4,8,2,9,Crybaby,completionist,East Asia,1
+41,51.31,30,0,10,5,6,Labubu,casual,East Asia,1
+19,50.53,20,5,9,9,1,Labubu,casual,North America,0
+50,71.31,21,6,8,0,4,Hirono,trend-chaser,Europe,1
+33,73.07,27,6,9,4,1,Dimoo,casual,East Asia,1
+22,78.22,34,2,9,5,8,Labubu,casual,East Asia,1
+48,146.55,10,2,2,8,7,Skullpanda,completionist,North America,1
+45,110.93,16,3,6,8,2,Labubu,completionist,Southeast Asia,1
+18,41.75,26,2,10,8,9,Dimoo,casual,Southeast Asia,1
+23,134.6,23,1,9,3,8,Dimoo,casual,Southeast Asia,1
+16,71.09,27,2,1,5,10,Molly,reseller,East Asia,1
+26,115.36,31,2,1,0,3,Hirono,trend-chaser,Europe,0
+19,73.34,23,2,2,9,1,Skullpanda,display-focused,Southeast Asia,0
+44,90.0,15,3,8,3,5,Dimoo,reseller,Southeast Asia,1
+36,52.73,31,6,4,5,2,Dimoo,display-focused,Southeast Asia,1
+55,98.1,12,4,6,7,8,Skullpanda,completionist,Southeast Asia,0
+45,120.85,25,4,1,8,4,Molly,completionist,Southeast Asia,1
+40,44.48,24,6,0,0,6,Labubu,trend-chaser,East Asia,1
+36,121.63,14,1,8,8,1,Dimoo,reseller,North America,1
+18,64.85,21,3,3,4,0,Dimoo,casual,East Asia,1
+18,166.71,25,3,0,4,10,Molly,casual,East Asia,1
+40,116.25,22,1,2,1,4,Crybaby,reseller,Southeast Asia,1
+16,107.94,28,2,3,7,1,Hirono,casual,Europe,1
+17,80.51,28,3,4,5,8,Labubu,completionist,Europe,1
+24,224.83,19,3,9,1,1,Labubu,display-focused,Oceania,1
+51,71.27,24,3,2,1,10,Skullpanda,casual,Europe,0
+34,56.93,27,1,6,7,4,Labubu,completionist,North America,1
+44,65.74,18,5,3,1,5,Crybaby,display-focused,East Asia,0
+32,129.98,34,7,5,5,2,Dimoo,trend-chaser,Europe,1
+22,89.31,24,4,3,7,0,Labubu,casual,North America,1
+30,84.07,20,6,3,10,4,Skullpanda,casual,East Asia,1
+19,71.69,29,3,6,1,4,Labubu,casual,Oceania,1
+46,82.33,30,1,6,3,4,Skullpanda,casual,North America,0
+23,69.76,27,2,1,1,5,Molly,completionist,Europe,1
+31,112.13,26,2,1,9,6,Hirono,display-focused,Europe,1
+55,77.52,34,4,2,6,0,Dimoo,casual,East Asia,0
+39,66.21,26,3,9,10,3,Crybaby,trend-chaser,Europe,1
+34,125.39,12,4,3,0,9,Labubu,casual,Europe,1
+37,57.61,21,7,6,7,10,Molly,display-focused,East Asia,1
+47,89.82,29,4,4,0,5,Hirono,trend-chaser,Oceania,0
+26,39.54,17,2,3,1,4,Molly,completionist,North America,1
+41,49.03,25,2,0,4,4,Molly,display-focused,East Asia,1
+50,74.22,22,3,4,4,8,Crybaby,trend-chaser,Southeast Asia,1
+38,69.26,19,1,10,4,4,Hirono,display-focused,North America,1
+33,69.22,27,3,10,0,10,Hirono,casual,Southeast Asia,1
+21,116.69,28,1,3,5,0,Molly,casual,Europe,0
+25,119.54,15,4,5,3,6,Skullpanda,trend-chaser,North America,1
+53,96.85,30,6,3,10,5,Skullpanda,casual,North America,1
+37,56.46,30,5,10,8,4,Skullpanda,reseller,North America,1
+28,82.07,32,4,6,4,5,Labubu,casual,Southeast Asia,0
+32,177.04,19,0,10,8,1,Hirono,casual,East Asia,1
+39,214.68,36,1,9,6,3,Molly,trend-chaser,Southeast Asia,1
+37,125.9,20,2,3,5,3,Skullpanda,trend-chaser,East Asia,1
+43,57.29,19,1,5,10,7,Hirono,casual,Europe,1
+26,82.36,26,2,6,6,6,Hirono,casual,Southeast Asia,1
+41,94.27,17,5,2,5,4,Labubu,reseller,Southeast Asia,1
+33,88.63,14,2,9,6,5,Dimoo,completionist,Europe,1
+53,131.45,27,3,6,8,6,Skullpanda,display-focused,Southeast Asia,1
+22,114.57,30,1,2,8,0,Molly,casual,Southeast Asia,0
+21,56.13,16,2,5,6,9,Labubu,trend-chaser,Europe,0
+34,66.83,20,5,9,1,9,Dimoo,casual,North America,1
+36,125.68,28,4,4,7,4,Hirono,casual,North America,1
+43,148.63,24,1,7,4,8,Crybaby,display-focused,Oceania,1
+32,94.75,25,2,10,10,4,Molly,casual,East Asia,1
+52,156.55,23,7,3,9,0,Molly,completionist,Southeast Asia,1
+34,90.44,29,4,10,0,9,Labubu,display-focused,Southeast Asia,1
+21,59.84,33,1,4,10,2,Crybaby,completionist,North America,0
+20,110.3,16,3,6,9,3,Hirono,display-focused,Oceania,1
+54,257.59,16,4,8,9,6,Crybaby,casual,Europe,1
+21,51.46,23,3,0,5,4,Skullpanda,trend-chaser,East Asia,1
+53,153.99,16,2,7,2,2,Labubu,display-focused,North America,1
+27,107.75,28,2,6,6,8,Skullpanda,display-focused,North America,1
+19,65.29,13,5,7,9,3,Molly,casual,Europe,0
+28,39.86,24,2,10,4,6,Molly,completionist,Europe,1
+40,34.95,17,3,5,10,7,Labubu,reseller,North America,1
+33,69.16,33,2,10,2,10,Labubu,completionist,North America,1
+47,100.63,20,1,6,9,5,Molly,reseller,East Asia,1
+40,121.85,21,1,2,0,5,Crybaby,casual,Southeast Asia,0
+32,133.65,27,5,7,9,10,Dimoo,trend-chaser,North America,1
+41,97.02,24,2,2,10,5,Hirono,casual,North America,1
+54,91.0,22,5,9,7,3,Labubu,casual,East Asia,1
+32,75.19,18,3,1,6,0,Dimoo,display-focused,East Asia,1
+22,101.62,24,3,5,4,3,Molly,casual,East Asia,0
+32,65.68,29,1,9,9,2,Labubu,display-focused,Oceania,1
+49,52.45,24,8,0,1,3,Molly,casual,North America,1
+24,88.75,26,2,5,3,5,Labubu,reseller,Europe,1
+53,117.98,33,5,5,1,5,Hirono,reseller,Southeast Asia,1
+39,48.42,22,7,3,3,2,Hirono,completionist,East Asia,1
+40,69.16,22,3,7,5,5,Molly,display-focused,East Asia,1
+28,87.43,24,4,3,3,4,Dimoo,display-focused,Southeast Asia,1
+52,86.69,25,3,4,4,0,Molly,trend-chaser,North America,1
+17,106.58,30,3,3,2,3,Labubu,display-focused,North America,0
+27,174.8,32,4,6,3,7,Dimoo,display-focused,North America,1
+32,35.05,24,5,9,5,0,Hirono,casual,Southeast Asia,1
+35,178.27,15,1,1,2,3,Hirono,casual,Southeast Asia,1
+34,171.36,26,7,4,10,5,Labubu,display-focused,North America,1
+21,122.7,18,5,2,9,1,Skullpanda,completionist,Europe,1
+25,94.04,21,2,2,9,7,Labubu,trend-chaser,East Asia,1
+19,66.19,20,1,10,0,7,Labubu,trend-chaser,North America,1
+38,122.07,33,4,7,5,3,Labubu,display-focused,Southeast Asia,1
+30,96.01,21,3,10,8,2,Labubu,display-focused,Europe,1
+38,75.83,27,6,6,3,8,Molly,reseller,Southeast Asia,1
+39,120.74,26,5,7,2,2,Molly,display-focused,Southeast Asia,1
+44,129.52,27,3,7,6,1,Dimoo,completionist,North America,1
+37,29.45,23,4,7,0,0,Molly,completionist,East Asia,1
+41,148.13,26,1,9,6,1,Labubu,casual,East Asia,1
+39,63.36,17,4,3,4,9,Crybaby,casual,North America,1
+42,139.92,23,3,1,7,10,Hirono,display-focused,North America,0
+40,76.39,31,3,5,7,6,Labubu,completionist,Southeast Asia,1
+28,94.14,18,2,0,5,10,Molly,casual,East Asia,1
+25,101.66,19,3,0,6,7,Labubu,casual,East Asia,0
+47,135.06,9,5,0,0,4,Crybaby,casual,North America,1
+29,115.59,34,4,0,10,7,Molly,reseller,East Asia,1
+37,75.32,27,1,7,0,4,Labubu,trend-chaser,East Asia,0
+23,36.47,27,3,6,10,10,Dimoo,trend-chaser,North America,1
+33,106.06,26,3,10,10,9,Dimoo,trend-chaser,North America,1
+37,92.56,18,2,3,7,9,Molly,casual,Europe,1
+41,51.21,31,1,3,8,5,Molly,casual,East Asia,1
+37,97.06,25,3,5,0,5,Molly,display-focused,North America,1
+30,86.98,34,3,8,10,1,Molly,completionist,Southeast Asia,1
+54,147.5,23,3,10,5,7,Molly,reseller,North America,1
+36,183.7,17,2,8,3,1,Hirono,casual,Southeast Asia,1
+48,128.15,26,4,5,7,5,Dimoo,trend-chaser,North America,0
+45,84.95,26,3,10,5,1,Dimoo,display-focused,East Asia,0
+38,90.19,29,1,1,3,5,Dimoo,completionist,East Asia,1
+51,62.49,26,2,5,3,8,Skullpanda,trend-chaser,East Asia,1
+21,67.13,6,4,2,1,3,Molly,completionist,Oceania,0
+52,82.96,17,5,1,9,6,Dimoo,reseller,North America,1
+50,79.48,29,2,4,7,2,Labubu,reseller,North America,0
+36,50.13,29,1,8,3,3,Labubu,reseller,North America,0
+45,148.16,16,3,3,7,2,Labubu,reseller,Europe,1
+36,157.15,21,2,9,7,1,Dimoo,display-focused,Southeast Asia,1
+26,146.1,24,5,6,1,4,Skullpanda,display-focused,North America,1
+47,159.48,27,2,7,1,1,Skullpanda,reseller,Southeast Asia,1
+25,207.42,23,3,2,2,9,Skullpanda,completionist,Europe,1
+28,62.95,27,4,9,1,8,Hirono,completionist,Oceania,1
+36,203.36,15,2,2,9,2,Labubu,display-focused,Europe,1
+49,75.14,35,1,4,1,9,Molly,casual,Oceania,1
+31,112.65,21,3,8,8,4,Hirono,display-focused,East Asia,0
+35,45.73,26,2,7,5,5,Dimoo,trend-chaser,Oceania,1
+17,71.31,32,2,3,1,7,Skullpanda,casual,East Asia,0
+20,129.71,25,4,2,9,8,Labubu,casual,Europe,1
+18,114.92,31,4,4,1,0,Crybaby,casual,Southeast Asia,1
+18,74.56,26,4,4,10,3,Molly,display-focused,Europe,1
+50,90.18,19,1,0,0,3,Hirono,casual,North America,0
+49,68.33,35,3,2,6,6,Hirono,completionist,Europe,0
+48,129.56,29,3,1,3,9,Hirono,casual,Southeast Asia,1
+18,152.44,25,3,1,5,4,Labubu,casual,East Asia,0
+19,63.06,38,3,3,9,5,Skullpanda,casual,North America,1
+27,86.46,21,5,0,8,0,Molly,casual,Southeast Asia,1
+38,49.38,27,5,7,3,5,Molly,reseller,Europe,1
+29,95.86,29,2,7,0,5,Molly,trend-chaser,North America,1
+35,107.74,23,3,2,3,7,Molly,reseller,North America,1
+22,99.09,18,1,9,8,9,Molly,trend-chaser,North America,1
+45,104.24,22,2,6,5,6,Dimoo,casual,East Asia,1
+28,82.75,7,2,3,8,0,Molly,trend-chaser,North America,0
+18,83.55,24,2,2,5,8,Molly,display-focused,North America,1
+45,81.98,32,0,4,5,5,Molly,reseller,Europe,0
+52,70.45,26,1,10,0,5,Dimoo,completionist,Southeast Asia,1
+16,73.94,33,0,0,0,9,Labubu,display-focused,East Asia,0
+33,105.71,24,1,0,7,6,Dimoo,casual,Europe,0
+49,148.23,17,2,4,2,8,Molly,casual,East Asia,1
+44,58.75,28,7,10,3,9,Skullpanda,display-focused,North America,1
+50,83.42,21,3,3,4,5,Hirono,display-focused,Southeast Asia,0
+32,54.03,29,3,8,6,10,Skullpanda,trend-chaser,North America,0
+30,70.96,34,2,6,10,1,Dimoo,casual,North America,1
+44,75.7,25,3,2,8,9,Crybaby,completionist,Europe,1
+22,93.11,27,1,9,7,9,Labubu,completionist,North America,1
+25,92.05,16,2,1,9,1,Molly,casual,North America,1
+40,86.14,24,2,5,5,1,Crybaby,display-focused,East Asia,1
+42,102.17,19,4,7,1,0,Hirono,display-focused,Europe,0
+20,60.94,19,5,7,5,3,Dimoo,display-focused,North America,1
+36,93.42,31,1,9,10,10,Labubu,casual,East Asia,1
+30,116.29,30,1,7,8,1,Molly,casual,East Asia,1
+36,60.64,18,3,7,3,0,Hirono,casual,Southeast Asia,0
+54,42.6,30,3,1,3,5,Dimoo,trend-chaser,North America,0
+19,129.11,28,4,3,10,3,Molly,reseller,Southeast Asia,1
+55,54.68,23,2,3,1,6,Labubu,casual,East Asia,1
+33,69.58,30,4,4,10,6,Hirono,completionist,East Asia,0
+46,114.9,25,3,1,7,9,Skullpanda,trend-chaser,North America,1
+32,59.45,22,4,1,8,4,Crybaby,casual,Europe,1
+28,125.37,25,4,4,3,5,Molly,casual,North America,1
+46,65.63,29,1,7,7,0,Molly,casual,East Asia,1
+43,62.49,27,4,9,3,10,Molly,casual,East Asia,1
+21,54.13,27,6,10,0,2,Skullpanda,reseller,North America,1
+44,65.86,24,2,5,5,6,Molly,reseller,North America,0
+46,108.55,20,5,9,10,9,Labubu,completionist,Southeast Asia,1
+31,69.59,28,3,5,2,6,Molly,display-focused,Europe,1
+53,129.34,23,3,5,1,6,Labubu,reseller,East Asia,1
+41,87.55,24,1,2,10,1,Hirono,casual,Oceania,1
+29,90.65,19,2,6,10,7,Labubu,casual,North America,0
+16,61.76,20,3,3,9,2,Skullpanda,casual,East Asia,1
+42,137.38,29,5,5,10,7,Dimoo,trend-chaser,Southeast Asia,1
+24,116.68,25,2,10,10,6,Labubu,completionist,North America,1
+46,115.32,21,3,6,10,5,Skullpanda,completionist,North America,1
+37,80.86,32,2,3,10,7,Hirono,reseller,Southeast Asia,1
+34,51.64,28,4,7,8,7,Skullpanda,casual,North America,1
+22,92.6,22,3,8,3,2,Skullpanda,display-focused,North America,1
+44,106.67,27,3,6,5,4,Hirono,reseller,Europe,1
+22,107.1,17,4,0,4,5,Crybaby,trend-chaser,Southeast Asia,0
+32,101.28,26,6,2,5,1,Hirono,display-focused,Europe,1
+49,99.58,19,4,1,7,3,Molly,casual,North America,0
+52,65.5,20,5,10,2,0,Dimoo,trend-chaser,Europe,0
+55,66.75,29,3,3,0,4,Skullpanda,display-focused,Europe,1
+54,54.32,23,3,5,6,2,Molly,display-focused,East Asia,1
+38,129.97,24,4,9,10,2,Skullpanda,casual,Southeast Asia,1
+24,179.98,20,3,10,9,9,Hirono,casual,North America,1
+49,255.35,24,1,2,0,1,Molly,completionist,East Asia,1
+48,95.19,21,1,9,6,1,Hirono,completionist,East Asia,1
+55,99.68,22,1,7,5,3,Crybaby,casual,Southeast Asia,1
+42,82.15,27,4,6,4,0,Molly,casual,East Asia,0
+21,94.59,24,3,1,7,9,Labubu,completionist,North America,1
+36,59.37,34,1,7,4,10,Crybaby,display-focused,East Asia,0
+33,81.49,23,2,6,10,8,Labubu,display-focused,East Asia,1
+49,62.69,23,2,4,9,8,Hirono,casual,East Asia,1
+31,77.33,27,4,6,7,1,Labubu,trend-chaser,North America,1
+29,64.74,28,5,2,5,6,Labubu,trend-chaser,North America,1
+19,106.69,21,2,6,6,0,Molly,display-focused,North America,0
+49,112.18,20,6,1,9,3,Molly,completionist,North America,1
+46,98.44,20,1,3,3,5,Crybaby,trend-chaser,North America,1
+17,66.86,23,3,5,9,7,Labubu,casual,North America,1
+33,52.93,18,1,1,6,3,Labubu,trend-chaser,North America,1
+35,112.69,23,4,10,0,2,Dimoo,display-focused,North America,0
+34,87.36,22,2,9,8,9,Crybaby,completionist,Oceania,1
+52,42.0,19,5,5,2,2,Molly,completionist,Europe,1
+22,92.3,31,5,6,5,5,Hirono,casual,Europe,1
+28,99.98,22,1,3,10,3,Labubu,reseller,East Asia,1
+23,46.66,25,4,2,8,9,Hirono,reseller,Europe,1
+25,107.45,26,4,10,7,5,Dimoo,casual,North America,1
+52,49.19,18,6,4,0,1,Hirono,completionist,East Asia,0
+53,64.08,26,3,10,9,1,Dimoo,trend-chaser,North America,1
+17,49.31,26,3,0,3,10,Crybaby,trend-chaser,East Asia,1
+41,61.53,21,6,1,0,10,Molly,completionist,North America,1
+25,53.1,18,3,5,10,8,Dimoo,casual,Europe,1
+23,129.62,31,3,8,2,0,Dimoo,display-focused,North America,0
+27,79.14,23,2,4,3,8,Molly,casual,North America,1
+23,72.61,19,2,9,1,7,Crybaby,trend-chaser,East Asia,1
+35,134.77,24,3,1,6,10,Hirono,reseller,North America,1
+55,131.86,28,3,9,9,5,Hirono,trend-chaser,Europe,1
+39,74.87,8,3,4,5,5,Molly,casual,North America,0
+44,97.67,27,0,3,9,6,Hirono,trend-chaser,East Asia,1
+35,68.85,19,3,7,10,1,Molly,trend-chaser,East Asia,1
+16,83.9,21,2,8,9,8,Crybaby,completionist,Southeast Asia,1
+19,56.6,29,3,10,1,5,Labubu,trend-chaser,East Asia,1
+26,103.41,18,2,0,2,2,Dimoo,display-focused,Oceania,0
+25,137.02,14,2,7,3,8,Labubu,display-focused,North America,1
+49,126.9,12,4,3,7,2,Dimoo,casual,East Asia,1
+49,88.99,36,3,5,9,9,Molly,casual,Europe,1
+50,40.66,26,1,5,3,3,Hirono,casual,Europe,0
+41,67.63,27,4,8,7,5,Hirono,completionist,East Asia,0
+38,83.86,16,2,4,2,4,Molly,display-focused,Oceania,1
+41,50.61,26,5,3,5,8,Hirono,casual,East Asia,0
+32,47.52,26,1,5,8,2,Dimoo,casual,North America,1
+42,152.92,18,2,7,4,2,Skullpanda,completionist,Europe,1
+47,120.75,20,3,9,1,2,Molly,trend-chaser,North America,0
+46,106.66,24,3,0,4,2,Labubu,display-focused,East Asia,0
+40,114.99,21,2,6,8,4,Labubu,reseller,Europe,1
+18,53.73,24,6,0,10,6,Skullpanda,trend-chaser,North America,1
+44,60.76,18,6,6,6,9,Skullpanda,completionist,North America,1
+30,95.31,22,2,6,7,4,Skullpanda,reseller,Southeast Asia,1
+45,98.31,25,3,9,4,4,Crybaby,completionist,North America,1
+37,49.55,24,1,2,10,1,Labubu,trend-chaser,North America,0
+51,92.61,19,4,8,9,1,Hirono,casual,North America,1
+29,84.47,26,2,7,10,8,Hirono,reseller,Europe,1
+53,125.21,26,4,7,9,6,Dimoo,display-focused,North America,1
+49,98.5,28,3,7,6,5,Skullpanda,casual,East Asia,1
+29,160.44,23,2,6,10,4,Labubu,reseller,North America,1
+35,75.04,25,4,0,6,5,Hirono,trend-chaser,North America,1
+37,55.06,25,3,8,6,9,Dimoo,trend-chaser,North America,0
+46,158.61,28,2,4,7,2,Hirono,trend-chaser,North America,1
+43,100.58,22,5,1,2,5,Labubu,reseller,East Asia,0
+50,84.67,24,2,6,9,2,Skullpanda,completionist,North America,1
+30,61.62,17,2,10,3,1,Molly,trend-chaser,East Asia,0
+36,75.38,26,4,7,7,7,Dimoo,casual,Europe,1
+33,73.83,33,5,2,9,7,Dimoo,casual,North America,1
+52,54.17,29,5,8,1,9,Labubu,display-focused,North America,1
+28,36.72,28,5,9,3,0,Labubu,completionist,East Asia,1
+39,73.16,20,3,3,10,1,Labubu,completionist,Europe,0
+20,116.19,30,1,5,3,6,Labubu,reseller,Europe,1
+50,141.95,26,4,9,7,8,Molly,casual,Southeast Asia,1
+31,127.25,29,1,1,6,10,Labubu,reseller,North America,1
+29,130.33,32,4,3,9,8,Molly,completionist,Europe,1
+39,56.52,30,3,5,5,9,Dimoo,trend-chaser,Europe,1
+35,96.03,19,4,0,4,8,Hirono,display-focused,North America,1
+49,106.99,24,2,1,0,3,Molly,completionist,Europe,0
+37,109.77,17,3,6,5,6,Labubu,reseller,East Asia,1
+36,83.92,35,1,2,6,6,Dimoo,display-focused,East Asia,1
+20,91.36,25,3,2,7,3,Molly,casual,East Asia,1
+16,185.62,27,0,3,8,9,Molly,casual,North America,1
+31,125.68,32,7,1,8,8,Skullpanda,casual,Europe,1
+55,105.43,23,2,7,5,5,Crybaby,display-focused,East Asia,1
+52,113.36,19,1,2,0,5,Molly,completionist,Europe,0
+41,71.85,33,8,7,2,8,Crybaby,completionist,East Asia,1
+41,110.93,29,1,9,4,2,Molly,completionist,East Asia,0
+31,90.88,21,4,5,10,2,Labubu,casual,Europe,1
+23,120.44,28,3,10,8,4,Labubu,casual,North America,1
+16,65.5,20,5,2,9,1,Hirono,reseller,East Asia,1
+29,116.43,24,4,10,10,5,Skullpanda,reseller,East Asia,1
+28,75.78,22,4,3,1,4,Skullpanda,completionist,North America,0
+23,116.65,30,5,3,0,5,Crybaby,reseller,North America,0
+26,96.28,17,2,10,6,5,Skullpanda,trend-chaser,North America,1
+16,88.24,27,3,5,2,9,Labubu,trend-chaser,East Asia,1
+40,77.4,28,5,8,9,3,Dimoo,completionist,North America,1
+53,84.81,20,4,8,5,4,Labubu,display-focused,Southeast Asia,1
+43,73.23,19,6,4,0,8,Skullpanda,casual,Oceania,1
+33,76.77,24,1,3,2,3,Hirono,completionist,Oceania,1
+32,104.29,22,4,5,3,7,Skullpanda,display-focused,North America,1
+28,44.29,31,7,4,0,10,Molly,casual,Europe,1
+21,116.0,25,4,4,3,4,Skullpanda,casual,Southeast Asia,1
+39,116.79,19,3,2,5,2,Labubu,trend-chaser,East Asia,0
+38,78.31,14,4,10,9,2,Molly,casual,North America,0
+16,92.31,26,2,6,7,0,Skullpanda,reseller,Southeast Asia,1
+32,59.17,25,1,8,1,3,Molly,trend-chaser,East Asia,1
+27,101.57,26,1,7,4,9,Labubu,completionist,East Asia,1
+22,61.94,33,3,3,8,2,Skullpanda,casual,Oceania,1
+44,29.79,20,2,3,4,10,Molly,trend-chaser,Oceania,1
+37,139.64,20,4,10,6,10,Molly,completionist,Europe,1
+41,56.73,24,2,0,10,7,Crybaby,casual,North America,1
+44,84.09,23,1,3,1,10,Labubu,completionist,East Asia,1
+55,93.71,26,1,8,5,4,Labubu,casual,East Asia,1
+48,104.2,21,2,6,6,10,Hirono,completionist,East Asia,1
+40,87.04,28,5,6,8,5,Labubu,trend-chaser,Europe,0
+51,97.01,23,2,0,9,0,Crybaby,completionist,East Asia,1
+35,77.59,16,2,2,3,9,Dimoo,trend-chaser,East Asia,1
+55,47.06,15,4,6,5,10,Skullpanda,display-focused,Oceania,1
+46,85.72,28,3,3,9,9,Molly,trend-chaser,Southeast Asia,1
+42,109.98,27,1,5,9,4,Molly,reseller,Europe,1
+52,58.01,28,3,10,9,1,Hirono,casual,East Asia,1
+36,94.09,17,2,7,7,6,Labubu,trend-chaser,East Asia,1
+44,174.22,28,5,6,2,9,Hirono,trend-chaser,Europe,1
+27,83.5,31,6,2,4,9,Hirono,display-focused,North America,1
+54,85.2,22,1,6,7,6,Dimoo,reseller,East Asia,1
+40,45.71,22,4,10,2,8,Labubu,casual,East Asia,0
+47,55.48,32,4,7,7,0,Dimoo,casual,Europe,1
+34,62.2,23,1,8,5,6,Dimoo,casual,Southeast Asia,1
+50,108.24,30,2,10,4,1,Labubu,display-focused,Oceania,1
+18,59.49,19,1,9,3,8,Hirono,casual,Southeast Asia,1
+20,40.44,16,2,3,8,0,Labubu,casual,Southeast Asia,0
+36,100.73,25,3,3,5,6,Crybaby,trend-chaser,Europe,1
+45,64.35,23,5,3,3,10,Labubu,display-focused,Southeast Asia,1
+48,46.33,23,3,8,4,1,Labubu,trend-chaser,Southeast Asia,1
+33,113.61,19,1,4,5,4,Dimoo,casual,East Asia,1
+41,74.15,21,5,9,6,0,Labubu,casual,North America,1
+38,104.51,18,3,8,10,7,Labubu,reseller,North America,1
+54,45.77,24,1,7,3,10,Labubu,display-focused,Europe,1
+42,35.57,19,6,1,1,0,Hirono,display-focused,East Asia,0
+32,90.56,24,8,7,10,6,Labubu,trend-chaser,Europe,1
+54,54.75,13,3,2,1,8,Dimoo,display-focused,Southeast Asia,0
+20,90.05,23,2,6,9,0,Skullpanda,display-focused,Southeast Asia,1
+55,90.82,35,3,2,1,5,Skullpanda,completionist,North America,0
+22,86.28,21,6,0,4,1,Molly,casual,North America,1
+27,129.9,27,8,7,10,10,Molly,completionist,East Asia,1
+48,238.29,19,3,4,1,5,Crybaby,display-focused,North America,1
+45,100.02,22,3,7,1,5,Hirono,casual,Southeast Asia,0
+54,174.14,20,1,5,6,10,Crybaby,display-focused,Southeast Asia,1
+45,44.7,24,0,4,2,8,Dimoo,display-focused,Europe,1
+41,74.93,23,3,0,0,3,Hirono,completionist,East Asia,1
+29,51.0,27,1,3,7,6,Crybaby,trend-chaser,Southeast Asia,1
+16,66.0,25,1,9,10,3,Skullpanda,reseller,Southeast Asia,1
+20,76.68,29,1,8,8,5,Crybaby,display-focused,East Asia,1
+27,180.61,22,6,5,10,8,Labubu,trend-chaser,Oceania,1
+17,88.23,27,2,0,5,10,Labubu,reseller,East Asia,0
+36,131.93,32,2,10,6,10,Skullpanda,casual,North America,1
+47,72.52,17,3,8,10,5,Skullpanda,casual,East Asia,1
+54,69.13,25,4,0,5,9,Skullpanda,casual,Southeast Asia,1
+35,45.12,31,3,2,0,9,Skullpanda,casual,Oceania,1
+51,178.04,36,7,1,2,6,Skullpanda,display-focused,North America,1
+55,150.29,29,5,9,6,0,Hirono,display-focused,Europe,1
+50,94.49,20,1,10,9,1,Molly,trend-chaser,East Asia,1
+34,78.46,17,4,4,6,7,Molly,display-focused,Southeast Asia,1
+29,89.57,24,2,1,4,9,Dimoo,casual,East Asia,1
+55,50.26,21,3,7,3,10,Dimoo,trend-chaser,North America,0
+25,104.43,20,3,2,7,2,Hirono,display-focused,Southeast Asia,1
+32,144.98,33,3,1,9,9,Molly,casual,East Asia,1
+18,148.1,29,3,2,3,9,Labubu,casual,Southeast Asia,1
+47,45.78,23,1,2,6,5,Crybaby,completionist,Southeast Asia,1
+41,131.42,22,1,0,4,4,Labubu,display-focused,North America,1
+19,50.38,30,1,7,2,5,Dimoo,completionist,Oceania,0
+24,36.34,32,3,3,4,7,Molly,trend-chaser,Europe,1
+38,133.51,24,4,6,0,8,Skullpanda,completionist,Oceania,1
+37,70.25,26,2,6,5,1,Hirono,trend-chaser,North America,0
+48,125.62,29,1,8,1,3,Molly,reseller,Southeast Asia,1
+26,120.96,27,4,8,5,1,Labubu,completionist,North America,1
+52,114.62,22,1,6,9,10,Dimoo,casual,North America,1
+33,89.13,17,8,9,1,4,Labubu,display-focused,Oceania,0
+48,52.41,9,0,6,2,2,Molly,display-focused,North America,0
+25,76.75,19,0,0,7,2,Skullpanda,completionist,North America,0
+17,149.16,32,4,9,9,0,Skullpanda,display-focused,Southeast Asia,1
+18,126.98,24,1,8,10,5,Dimoo,completionist,Europe,1
+30,78.34,24,5,4,1,8,Molly,display-focused,East Asia,1
+54,77.96,30,2,4,2,3,Molly,completionist,Oceania,1
+17,110.43,17,4,9,10,4,Molly,display-focused,Europe,1
+30,91.73,27,3,4,5,7,Hirono,trend-chaser,North America,1
+20,79.95,19,3,4,9,3,Labubu,display-focused,East Asia,1
+53,106.66,19,6,8,0,8,Crybaby,reseller,East Asia,1
+43,105.21,31,4,3,1,3,Molly,completionist,North America,0
+46,66.7,25,4,4,2,4,Molly,display-focused,East Asia,0
+44,99.08,21,4,8,0,10,Dimoo,reseller,Europe,1
+42,102.62,23,2,2,9,9,Molly,trend-chaser,North America,0
+46,86.43,19,4,0,8,6,Dimoo,reseller,North America,1
+16,63.97,13,2,3,4,4,Crybaby,trend-chaser,Southeast Asia,0
+50,75.81,28,1,1,0,10,Hirono,display-focused,North America,0
+45,59.09,17,3,3,1,5,Skullpanda,trend-chaser,North America,0
+45,100.17,30,1,0,2,3,Dimoo,trend-chaser,Oceania,1
+31,45.87,28,2,6,7,6,Molly,reseller,Europe,1
+48,155.76,23,3,5,8,4,Hirono,trend-chaser,Oceania,1
+31,142.08,22,1,2,5,9,Labubu,reseller,Southeast Asia,1
+17,103.61,19,3,6,9,2,Labubu,display-focused,Europe,1
+52,123.87,27,5,1,10,0,Skullpanda,completionist,Europe,1
+25,120.44,19,1,0,8,4,Labubu,display-focused,North America,1
+20,92.29,26,3,5,0,10,Dimoo,completionist,North America,0
+40,80.83,21,6,1,9,0,Labubu,display-focused,North America,1
+25,77.24,21,1,9,9,8,Labubu,reseller,Europe,0
+50,158.24,34,2,3,6,0,Dimoo,display-focused,Europe,0
+33,63.1,25,3,4,6,6,Skullpanda,display-focused,Southeast Asia,1
+16,63.57,23,2,3,8,4,Crybaby,casual,North America,1
+54,128.43,34,3,4,6,1,Molly,casual,Europe,0
+36,123.38,25,7,1,3,8,Labubu,completionist,North America,1
+26,78.97,22,5,10,7,1,Labubu,display-focused,North America,1
+43,108.13,28,4,1,8,4,Skullpanda,casual,Southeast Asia,1
+37,113.96,27,2,4,1,6,Labubu,display-focused,East Asia,1
+17,51.48,21,3,9,7,5,Hirono,display-focused,Europe,1
+46,145.97,31,1,4,1,0,Labubu,casual,East Asia,0
+32,113.94,20,5,7,6,4,Crybaby,casual,Europe,0
+43,104.4,25,2,0,1,7,Skullpanda,completionist,Southeast Asia,1
+51,114.31,21,3,3,10,5,Dimoo,reseller,Europe,1
+40,99.33,26,1,8,7,8,Labubu,trend-chaser,East Asia,1
+42,84.46,27,4,2,5,8,Labubu,casual,North America,0
+26,39.82,13,4,4,5,1,Molly,display-focused,Europe,1
+25,92.62,21,4,0,6,8,Skullpanda,casual,East Asia,0
+32,49.8,23,3,5,1,9,Skullpanda,completionist,North America,0
+50,185.16,16,0,3,5,9,Molly,casual,East Asia,1
+36,83.9,30,3,9,7,9,Molly,casual,East Asia,1
+29,183.75,18,6,4,2,2,Crybaby,completionist,North America,1
+47,93.25,27,1,9,5,7,Molly,display-focused,Oceania,0
+50,68.88,17,4,9,3,5,Labubu,completionist,North America,1
+52,144.18,25,2,9,1,10,Molly,completionist,Southeast Asia,0
+27,102.68,26,5,8,10,9,Molly,trend-chaser,Europe,1
+44,214.59,20,2,6,6,1,Skullpanda,display-focused,North America,1
+39,68.21,32,5,5,4,10,Dimoo,casual,North America,1
+33,146.76,19,4,0,3,7,Dimoo,completionist,East Asia,1
+31,150.1,19,3,1,7,5,Dimoo,casual,East Asia,1
+20,117.87,20,7,4,1,4,Labubu,casual,East Asia,1
+26,150.63,22,4,7,6,5,Labubu,display-focused,Europe,1
+37,84.67,21,2,0,2,8,Hirono,casual,North America,0
+51,62.98,22,1,10,9,8,Labubu,casual,Southeast Asia,1
+50,71.28,31,0,10,8,6,Molly,completionist,Southeast Asia,1
+23,90.68,25,4,0,8,10,Skullpanda,reseller,Europe,1
+43,120.38,30,5,1,1,2,Dimoo,casual,Southeast Asia,0
+19,64.66,14,3,9,0,4,Labubu,completionist,East Asia,1
+43,77.26,23,2,2,5,6,Crybaby,trend-chaser,East Asia,0
+29,66.65,24,1,1,3,1,Molly,casual,East Asia,1
+33,129.31,27,4,2,7,5,Crybaby,reseller,North America,1
+44,183.11,25,5,7,7,9,Molly,casual,North America,1
+32,58.95,24,2,1,4,7,Dimoo,trend-chaser,East Asia,0
+48,110.22,16,5,2,1,7,Molly,casual,Oceania,1
+37,136.13,27,4,4,3,1,Hirono,casual,Europe,1
+55,81.71,38,7,6,5,1,Skullpanda,trend-chaser,North America,1
+41,50.76,21,6,10,2,4,Hirono,completionist,North America,1
+27,143.61,24,1,2,3,3,Dimoo,casual,Europe,1
+47,49.63,30,2,2,2,0,Skullpanda,reseller,East Asia,1
+32,161.62,27,4,5,0,6,Molly,trend-chaser,North America,1
+37,66.11,22,2,4,6,8,Molly,display-focused,North America,1
+21,47.05,22,4,6,10,8,Crybaby,casual,East Asia,1
+20,73.36,24,2,2,10,1,Crybaby,casual,North America,0
+38,87.8,23,2,6,10,8,Labubu,trend-chaser,Europe,1
+23,95.25,22,2,10,7,4,Labubu,casual,East Asia,1
+55,114.02,34,4,7,8,1,Labubu,display-focused,North America,0
+50,98.73,35,2,8,0,5,Labubu,casual,Europe,1
+44,176.48,31,2,0,2,2,Molly,casual,North America,0
+45,86.15,29,1,9,7,7,Hirono,completionist,Europe,1
+39,100.87,28,4,7,10,8,Labubu,display-focused,Southeast Asia,1
+18,97.45,26,3,6,9,7,Hirono,casual,East Asia,1
+31,45.11,24,3,1,6,1,Crybaby,casual,North America,1
+35,54.87,22,5,6,1,3,Molly,casual,North America,0
+52,90.83,15,5,7,10,5,Skullpanda,casual,North America,1
+24,105.87,17,1,6,3,10,Skullpanda,casual,Southeast Asia,1
+35,39.29,22,2,1,0,6,Labubu,reseller,East Asia,1
+29,180.07,29,2,0,8,7,Dimoo,casual,East Asia,1
+21,109.37,12,4,5,1,3,Skullpanda,display-focused,North America,1
+20,88.78,21,1,7,3,3,Labubu,completionist,Southeast Asia,1
+30,107.31,37,3,4,7,8,Hirono,reseller,Southeast Asia,0
+19,71.72,27,2,7,10,9,Molly,completionist,North America,1
+18,95.67,27,1,10,9,0,Labubu,trend-chaser,Europe,1
+30,101.86,36,0,9,1,5,Crybaby,casual,Europe,1
+24,144.33,28,2,6,1,8,Labubu,casual,East Asia,1
+38,83.09,30,2,8,8,1,Labubu,casual,Europe,1
+16,50.11,26,7,0,3,7,Labubu,casual,North America,0
+28,62.35,24,3,0,0,5,Molly,trend-chaser,East Asia,0
+34,80.45,19,3,7,6,5,Skullpanda,completionist,East Asia,1
+54,52.1,33,1,8,7,6,Dimoo,reseller,Europe,1
+41,59.79,19,3,2,10,9,Molly,trend-chaser,Europe,1
+51,62.57,21,0,6,5,0,Skullpanda,trend-chaser,North America,1
+29,78.32,19,3,3,8,2,Labubu,display-focused,Europe,1
+33,108.79,22,7,1,5,3,Molly,trend-chaser,Southeast Asia,1
+32,76.87,18,3,4,10,8,Crybaby,display-focused,East Asia,1
+51,111.81,10,3,4,5,6,Hirono,casual,Southeast Asia,1
+54,88.82,37,0,8,7,2,Dimoo,completionist,East Asia,0
+54,60.56,18,0,9,10,0,Molly,trend-chaser,Southeast Asia,0
+46,102.55,37,1,10,9,10,Skullpanda,reseller,Europe,1
+36,96.16,15,2,1,4,1,Hirono,display-focused,North America,0
+37,113.03,19,3,10,5,0,Hirono,trend-chaser,Southeast Asia,1
+55,122.65,28,4,5,6,4,Dimoo,display-focused,East Asia,1
+27,146.28,22,5,1,1,6,Skullpanda,completionist,Southeast Asia,1
+29,110.28,20,3,7,2,2,Labubu,display-focused,East Asia,1
+51,94.88,20,3,0,7,1,Labubu,casual,Europe,0
+31,113.25,22,1,5,0,0,Labubu,display-focused,North America,0
+25,73.91,24,4,9,6,4,Molly,trend-chaser,Europe,1
+38,71.78,19,6,10,5,10,Labubu,trend-chaser,East Asia,1
+29,154.83,22,5,3,5,1,Skullpanda,casual,Southeast Asia,1
+51,70.97,23,3,1,9,6,Skullpanda,casual,Southeast Asia,0
+52,63.18,29,5,6,3,2,Skullpanda,casual,Europe,1
+28,110.26,17,4,1,8,7,Skullpanda,reseller,Europe,1
+37,74.15,21,3,10,8,0,Labubu,completionist,North America,1
+55,122.13,19,3,3,10,2,Skullpanda,completionist,Europe,0
+45,141.68,16,2,2,9,0,Crybaby,casual,Oceania,1
+24,66.53,22,3,2,5,7,Skullpanda,casual,East Asia,1
+39,115.72,18,2,4,4,7,Hirono,trend-chaser,East Asia,1
+40,70.32,24,2,8,8,1,Molly,completionist,Southeast Asia,1
+42,81.13,31,2,9,10,4,Dimoo,casual,North America,1
+17,100.65,24,3,8,3,3,Skullpanda,casual,Oceania,0
+27,71.85,26,3,7,4,0,Dimoo,casual,East Asia,0
+50,97.01,25,4,2,5,0,Hirono,casual,North America,1
+25,83.78,24,5,10,1,10,Skullpanda,casual,East Asia,0
+27,123.28,17,7,10,3,7,Dimoo,completionist,North America,1
+28,123.41,20,3,6,1,7,Hirono,casual,East Asia,1
+23,71.98,21,3,8,8,3,Hirono,display-focused,North America,1
+22,101.57,21,4,3,5,2,Labubu,completionist,North America,1
+29,131.17,28,5,4,6,8,Labubu,display-focused,East Asia,1
+50,59.43,11,4,8,0,4,Hirono,display-focused,Europe,1
+16,83.58,27,4,4,6,1,Dimoo,trend-chaser,North America,1
+27,99.79,20,5,8,7,5,Crybaby,casual,Southeast Asia,0
+18,58.49,26,2,9,7,5,Molly,reseller,North America,1
+38,75.29,28,2,10,8,6,Hirono,casual,East Asia,1
+26,168.4,8,1,3,1,5,Hirono,casual,East Asia,1
+47,70.89,33,4,5,6,9,Hirono,casual,North America,0
+39,73.91,24,5,4,5,2,Dimoo,completionist,Oceania,1
+47,47.06,21,3,5,9,6,Labubu,display-focused,Europe,1
+41,109.76,28,4,8,7,9,Dimoo,reseller,North America,1
+33,55.9,22,9,3,10,10,Dimoo,casual,Europe,1
+50,84.29,28,6,2,0,10,Molly,completionist,East Asia,1
+35,63.41,27,2,2,4,7,Labubu,casual,North America,1
+53,96.93,27,4,8,7,1,Hirono,casual,North America,0
+55,30.57,16,5,10,0,10,Labubu,completionist,East Asia,1
+39,91.64,22,3,1,7,0,Skullpanda,casual,East Asia,0
+42,100.9,14,3,10,2,6,Dimoo,display-focused,North America,1
+26,76.04,21,1,0,0,4,Crybaby,completionist,Europe,1
+48,77.89,23,3,5,7,7,Dimoo,reseller,North America,1
+42,72.44,25,3,1,4,8,Molly,completionist,North America,1
+52,83.86,28,1,10,4,8,Labubu,casual,East Asia,1
+26,155.71,22,4,8,3,2,Molly,casual,North America,1
+47,124.87,27,4,3,7,8,Molly,display-focused,North America,1
+34,83.83,31,6,7,6,8,Hirono,casual,North America,1
+23,75.3,21,1,9,7,0,Molly,display-focused,East Asia,1
+22,120.04,24,2,2,8,7,Labubu,display-focused,East Asia,1
+38,94.45,26,0,6,6,1,Hirono,display-focused,Europe,1
+28,57.95,31,3,3,0,6,Labubu,display-focused,East Asia,1
+20,80.06,26,3,7,1,2,Labubu,casual,East Asia,1
+33,148.63,34,2,6,10,3,Skullpanda,casual,North America,1
+42,108.0,20,1,7,3,2,Labubu,casual,North America,1
+28,75.61,23,5,7,4,9,Labubu,casual,North America,1
+54,48.89,25,0,6,4,9,Crybaby,reseller,Southeast Asia,1
+47,96.74,23,3,0,10,8,Hirono,casual,North America,1
+36,89.01,16,5,9,9,7,Hirono,casual,North America,1
+53,82.81,13,4,1,5,3,Dimoo,trend-chaser,East Asia,0
+33,120.59,22,1,4,7,1,Labubu,display-focused,East Asia,1
+21,108.54,18,1,5,6,6,Hirono,casual,Southeast Asia,1
+17,49.47,25,7,9,7,4,Skullpanda,reseller,Europe,1
+53,89.21,14,2,6,10,3,Labubu,completionist,North America,1
+54,53.79,19,5,2,7,2,Molly,trend-chaser,East Asia,1
+45,72.91,22,3,3,1,1,Skullpanda,trend-chaser,East Asia,0
+20,52.36,9,6,2,5,9,Labubu,completionist,Oceania,0
+27,53.03,29,6,6,9,3,Molly,casual,East Asia,1
+17,101.46,25,3,7,0,10,Molly,display-focused,Europe,1
+18,97.47,17,6,7,3,7,Skullpanda,casual,North America,0
+25,86.61,24,1,8,2,1,Labubu,completionist,Oceania,1
+38,70.51,28,4,7,7,0,Skullpanda,trend-chaser,East Asia,1
+18,51.01,19,2,9,1,4,Labubu,casual,North America,1
+55,73.04,26,5,9,6,0,Skullpanda,trend-chaser,Europe,1
+34,97.64,24,1,3,0,10,Labubu,completionist,East Asia,1
+26,96.75,23,2,3,10,9,Molly,casual,North America,1
+36,147.32,29,4,0,3,7,Dimoo,trend-chaser,East Asia,1
+47,138.41,26,2,2,4,3,Dimoo,completionist,East Asia,0
+28,87.95,24,4,5,8,9,Labubu,display-focused,North America,1
+17,72.75,24,1,7,4,7,Skullpanda,display-focused,Oceania,0
+18,64.01,21,4,9,1,3,Hirono,casual,Oceania,1
+50,48.28,26,2,6,9,9,Labubu,casual,North America,1
+20,55.88,32,4,10,1,2,Skullpanda,completionist,Europe,0
+41,97.7,14,5,6,5,6,Skullpanda,trend-chaser,Southeast Asia,1
+31,111.57,15,0,9,1,7,Hirono,completionist,Europe,1
+47,78.35,21,2,8,7,9,Skullpanda,trend-chaser,Oceania,1
+18,211.32,21,5,5,2,1,Crybaby,trend-chaser,North America,1
+51,56.07,28,5,9,10,3,Dimoo,casual,East Asia,1
+43,46.69,25,2,9,2,9,Skullpanda,reseller,East Asia,1
+33,209.65,15,2,3,7,5,Molly,reseller,Europe,1
+24,50.15,21,4,2,0,8,Skullpanda,display-focused,East Asia,1
+55,77.94,22,0,1,1,8,Labubu,display-focused,North America,0
+28,66.0,23,3,10,3,3,Molly,reseller,North America,0
+35,100.58,20,4,4,9,3,Molly,trend-chaser,North America,1
+31,75.69,20,4,6,10,5,Dimoo,trend-chaser,North America,1
+25,111.71,22,3,3,6,0,Hirono,display-focused,North America,1
+32,121.6,28,0,4,3,8,Crybaby,reseller,Europe,1
+22,48.12,23,2,4,3,1,Labubu,display-focused,North America,0
+16,63.23,24,0,6,2,10,Hirono,trend-chaser,North America,1
+27,115.6,20,3,1,3,8,Hirono,completionist,North America,1
+20,131.6,24,4,8,5,3,Hirono,trend-chaser,Southeast Asia,1
+32,93.46,17,5,4,7,0,Dimoo,trend-chaser,North America,0
+50,103.55,22,2,2,2,8,Molly,display-focused,East Asia,1
+22,151.31,25,4,0,0,4,Hirono,trend-chaser,North America,1
+16,76.06,25,4,1,6,2,Skullpanda,completionist,North America,1
+20,93.05,26,3,2,2,4,Dimoo,casual,Europe,1
+36,138.48,20,2,8,4,9,Labubu,casual,Europe,1
+26,142.12,30,4,9,7,7,Labubu,completionist,East Asia,1
+35,84.11,34,4,10,9,7,Molly,casual,East Asia,1
+17,63.98,20,4,3,5,5,Skullpanda,casual,North America,0
+29,83.74,27,5,7,10,1,Molly,completionist,North America,1
+32,86.9,20,2,2,2,10,Hirono,casual,Southeast Asia,1
+33,63.12,29,2,1,7,8,Labubu,display-focused,North America,1
+38,66.61,21,4,5,10,5,Labubu,reseller,Southeast Asia,1
+47,142.21,17,1,7,2,7,Molly,casual,East Asia,1
+34,105.47,25,1,8,8,3,Labubu,completionist,North America,1
+49,78.09,23,4,1,5,8,Molly,casual,North America,1
+37,57.31,24,2,8,9,10,Dimoo,trend-chaser,Europe,1
+26,66.91,22,7,3,3,3,Crybaby,display-focused,East Asia,1
+25,45.44,29,3,3,10,0,Labubu,reseller,Oceania,1
+28,94.42,31,3,0,8,8,Molly,reseller,North America,0
+39,65.54,17,4,2,7,9,Hirono,trend-chaser,Oceania,1
+25,97.38,18,2,5,0,9,Molly,display-focused,North America,1
+52,115.12,23,3,2,0,10,Dimoo,display-focused,North America,1
+35,97.94,24,3,3,7,3,Skullpanda,casual,East Asia,1
+50,74.43,25,4,5,5,10,Hirono,completionist,Oceania,1
+43,61.94,23,2,1,3,2,Labubu,completionist,Europe,0
+29,54.35,26,2,9,9,6,Crybaby,completionist,Southeast Asia,0
+25,136.43,22,3,3,5,9,Crybaby,casual,Europe,1
+45,96.26,16,3,8,5,10,Labubu,completionist,Southeast Asia,1
+29,76.04,20,1,7,3,6,Skullpanda,display-focused,Southeast Asia,1
+25,109.0,20,4,8,10,6,Molly,completionist,East Asia,1
+53,127.37,34,5,3,4,5,Molly,completionist,East Asia,1
+35,66.05,22,2,1,2,9,Crybaby,display-focused,Europe,1
+17,95.12,30,3,1,7,9,Labubu,display-focused,Oceania,0
+35,95.88,27,3,2,0,2,Molly,display-focused,East Asia,1
+34,148.56,19,6,5,6,1,Labubu,reseller,North America,1
+50,75.63,22,1,6,6,8,Skullpanda,reseller,Southeast Asia,1
+44,61.12,16,3,8,2,8,Hirono,casual,East Asia,1
+23,99.26,20,2,10,8,1,Dimoo,casual,East Asia,1
+22,112.62,33,3,9,0,5,Dimoo,completionist,East Asia,1
+40,92.07,22,2,3,10,5,Labubu,reseller,Europe,1
+17,152.85,17,5,5,9,0,Dimoo,casual,Europe,1
+28,75.54,29,3,10,1,7,Molly,display-focused,North America,1
+21,92.97,25,2,7,5,10,Skullpanda,display-focused,Southeast Asia,1
+16,49.41,20,3,4,2,2,Skullpanda,reseller,East Asia,1
+52,59.9,23,3,9,6,8,Crybaby,casual,Southeast Asia,1
+19,66.2,15,3,1,3,0,Dimoo,reseller,North America,0
+16,80.35,23,4,7,5,2,Dimoo,completionist,Oceania,1
+53,52.16,30,3,10,10,6,Skullpanda,trend-chaser,Europe,1
+23,108.38,21,4,5,6,10,Labubu,trend-chaser,Europe,1
+48,64.04,20,4,6,9,9,Skullpanda,display-focused,Oceania,1
+17,194.5,33,0,0,6,10,Dimoo,completionist,East Asia,1
+22,64.87,17,3,6,5,10,Dimoo,completionist,Southeast Asia,1
+20,89.23,24,0,3,0,8,Dimoo,trend-chaser,East Asia,1
+44,84.93,39,3,10,0,3,Molly,display-focused,North America,1
+40,58.07,27,7,3,5,1,Labubu,casual,Europe,1
+35,80.47,14,5,3,5,9,Labubu,trend-chaser,Southeast Asia,1
+25,80.08,31,2,4,5,2,Dimoo,casual,Europe,0
+19,121.65,31,3,7,9,5,Crybaby,trend-chaser,East Asia,1
+38,100.73,22,3,10,1,8,Skullpanda,casual,North America,1
+25,107.75,26,1,3,7,0,Dimoo,display-focused,Europe,1
+39,120.57,26,3,2,8,10,Dimoo,trend-chaser,Southeast Asia,1
+43,108.44,24,4,8,7,3,Labubu,completionist,Oceania,1
+49,94.81,29,2,5,2,2,Labubu,completionist,North America,1
+35,65.98,26,1,5,4,4,Labubu,display-focused,North America,1
+16,92.45,21,3,10,0,5,Crybaby,casual,North America,1
+27,61.48,13,0,5,1,4,Labubu,casual,North America,0
+50,82.81,22,3,6,8,1,Skullpanda,completionist,Southeast Asia,1
+37,78.72,27,7,10,6,2,Molly,display-focused,Europe,1
+40,80.63,27,1,2,9,5,Dimoo,casual,North America,1
+34,52.34,10,1,9,7,2,Labubu,display-focused,Southeast Asia,0
+22,30.7,15,1,10,2,7,Crybaby,trend-chaser,Southeast Asia,1
+51,73.28,34,3,5,8,9,Molly,trend-chaser,Europe,1
+46,132.01,20,7,3,7,0,Crybaby,display-focused,Southeast Asia,1
+55,88.72,27,4,1,2,0,Skullpanda,trend-chaser,Europe,0
+50,128.06,26,0,0,0,7,Molly,display-focused,North America,0
+27,61.62,21,6,10,8,0,Dimoo,display-focused,Southeast Asia,1
+26,71.93,35,0,4,7,7,Skullpanda,display-focused,North America,0
+25,199.67,24,2,7,0,5,Labubu,trend-chaser,Oceania,1
+52,62.98,23,4,2,5,5,Dimoo,casual,East Asia,1
+38,106.91,16,2,3,10,6,Skullpanda,casual,Southeast Asia,0
+34,106.84,19,2,9,8,9,Skullpanda,trend-chaser,North America,1
+54,102.21,7,4,7,8,1,Dimoo,reseller,Europe,1
+40,107.45,29,3,2,4,1,Dimoo,reseller,Southeast Asia,0
+52,62.65,28,1,0,1,7,Molly,reseller,Southeast Asia,0
+55,74.61,34,4,9,3,0,Molly,completionist,Southeast Asia,1
+19,32.81,21,3,0,7,4,Molly,casual,North America,0
+30,150.67,25,2,0,9,5,Skullpanda,reseller,East Asia,1
+45,107.19,21,1,3,7,4,Molly,casual,Europe,1
+48,66.23,27,3,10,0,5,Labubu,casual,North America,0
+21,61.87,28,3,7,6,1,Hirono,trend-chaser,East Asia,1
+28,132.96,11,4,0,2,2,Labubu,casual,East Asia,1
+37,64.52,36,3,10,6,0,Labubu,casual,Europe,1
+47,66.16,25,1,10,4,10,Hirono,display-focused,North America,1
+20,57.18,30,2,7,5,9,Dimoo,trend-chaser,Southeast Asia,1
+40,115.23,9,4,0,6,2,Hirono,trend-chaser,Oceania,1
+27,127.29,19,3,0,7,0,Molly,casual,Europe,1
+24,78.9,22,2,9,0,2,Dimoo,display-focused,Southeast Asia,0
+36,127.63,18,4,9,10,10,Crybaby,reseller,Southeast Asia,1
+32,98.8,21,6,9,6,8,Molly,completionist,North America,1
+41,55.96,30,2,5,5,7,Labubu,casual,East Asia,1
+28,146.06,30,3,6,4,10,Labubu,display-focused,Southeast Asia,1
+48,56.97,33,4,1,1,1,Hirono,completionist,East Asia,0
+19,81.09,21,2,0,6,5,Molly,casual,North America,0
+50,78.99,21,4,2,3,8,Skullpanda,reseller,East Asia,1
+17,73.73,16,3,6,9,0,Skullpanda,casual,Southeast Asia,1
+45,40.71,24,4,4,7,4,Crybaby,trend-chaser,East Asia,1
+29,181.37,28,3,6,4,3,Molly,completionist,North America,1
+31,42.47,27,3,4,0,1,Skullpanda,completionist,North America,1
+16,149.9,16,1,6,6,2,Crybaby,reseller,Southeast Asia,1
+44,61.1,25,4,10,9,10,Labubu,casual,Europe,1
+22,68.53,23,6,6,5,5,Skullpanda,casual,Oceania,1
+42,143.7,22,3,10,7,0,Labubu,completionist,Europe,1
+45,103.0,33,3,10,1,7,Molly,reseller,Southeast Asia,1
+49,49.99,20,4,6,4,6,Labubu,trend-chaser,North America,1
+44,49.64,26,2,10,8,4,Molly,display-focused,Southeast Asia,1
+28,97.05,18,3,2,4,4,Labubu,reseller,Southeast Asia,0
+45,56.62,26,2,5,9,5,Hirono,casual,Europe,0
+49,104.93,19,1,0,4,10,Skullpanda,casual,North America,0
+28,109.21,38,2,1,8,8,Molly,casual,Southeast Asia,1
+20,63.48,29,0,1,7,4,Dimoo,trend-chaser,Southeast Asia,0
+51,69.91,28,2,1,10,2,Crybaby,completionist,East Asia,1
+21,98.3,32,4,4,5,1,Molly,display-focused,Europe,1
+39,62.45,28,2,7,5,2,Labubu,reseller,Southeast Asia,0
+25,88.77,17,2,10,3,1,Labubu,casual,East Asia,1
+21,205.05,29,4,10,7,8,Hirono,casual,Europe,1
+47,100.15,32,2,1,10,6,Hirono,casual,Europe,1
+21,74.12,24,3,4,1,0,Skullpanda,casual,North America,0
+42,189.46,30,3,4,10,10,Labubu,display-focused,Southeast Asia,1
+43,118.58,23,3,1,10,1,Skullpanda,casual,Southeast Asia,1
+18,57.11,37,3,0,8,7,Dimoo,reseller,Europe,1
+22,61.0,28,3,3,6,0,Molly,trend-chaser,North America,1
+47,44.09,21,1,9,9,6,Labubu,trend-chaser,North America,1
+36,97.59,21,1,4,2,6,Molly,casual,North America,0
+20,38.44,21,3,4,6,9,Dimoo,display-focused,Oceania,0
+55,189.36,27,1,10,8,6,Crybaby,casual,East Asia,1
+26,77.52,30,3,4,8,5,Labubu,casual,Europe,1
+16,121.57,20,4,7,6,5,Crybaby,completionist,North America,1
+52,74.85,28,1,10,4,6,Skullpanda,display-focused,North America,1
+16,96.91,28,9,1,10,4,Dimoo,completionist,East Asia,1
+38,81.52,26,4,5,7,7,Hirono,trend-chaser,North America,1
+55,87.77,21,5,3,8,5,Skullpanda,casual,Europe,0
+39,137.08,21,2,1,6,10,Labubu,trend-chaser,Oceania,1
+39,164.75,19,4,0,9,2,Molly,casual,East Asia,1
+31,159.23,32,3,7,5,8,Hirono,trend-chaser,Southeast Asia,1
+21,275.13,14,3,7,6,9,Skullpanda,completionist,North America,1
+38,64.98,21,1,6,8,7,Molly,casual,North America,0
+51,100.66,29,1,7,5,10,Skullpanda,display-focused,Southeast Asia,1
+19,65.54,26,2,7,2,4,Molly,casual,Southeast Asia,0
+51,134.72,28,4,0,8,5,Molly,reseller,East Asia,1
+32,58.11,15,3,0,4,1,Hirono,casual,East Asia,0
+37,138.09,25,5,3,1,4,Molly,trend-chaser,North America,1
+22,93.3,29,4,6,4,1,Molly,display-focused,East Asia,1
+40,83.32,22,3,9,0,8,Molly,trend-chaser,North America,1
+23,87.08,12,0,10,9,8,Crybaby,casual,North America,1
+26,54.41,22,0,9,10,2,Labubu,completionist,Europe,1
+44,56.05,27,6,3,2,8,Labubu,reseller,North America,1
+18,93.96,24,4,6,10,3,Molly,casual,North America,1
+33,93.7,22,3,1,7,8,Labubu,casual,North America,1
+39,66.65,21,8,5,10,10,Labubu,completionist,Europe,1
+21,77.2,15,2,1,1,9,Labubu,completionist,Southeast Asia,1
+27,104.06,24,1,10,0,2,Labubu,reseller,Oceania,1
+29,62.33,39,3,4,10,1,Dimoo,casual,North America,1
+42,42.4,20,4,7,2,1,Labubu,trend-chaser,North America,1
+55,152.99,33,2,1,6,9,Molly,trend-chaser,Southeast Asia,1
+49,96.58,18,4,10,9,6,Dimoo,reseller,North America,1
+23,71.18,27,3,5,3,1,Labubu,casual,East Asia,1
+16,65.46,21,6,0,0,6,Labubu,casual,North America,0
+18,62.1,23,3,4,8,5,Crybaby,trend-chaser,East Asia,1
+39,134.5,27,4,2,4,6,Skullpanda,reseller,North America,1
+22,51.16,28,0,0,0,6,Dimoo,completionist,East Asia,0
+25,100.56,26,4,0,3,1,Skullpanda,trend-chaser,Europe,0
+49,100.52,26,3,7,5,4,Crybaby,casual,North America,1
+50,116.09,26,4,9,9,7,Labubu,reseller,Europe,1
+49,73.8,21,3,7,2,10,Labubu,completionist,Europe,1
+26,147.42,36,1,7,5,2,Hirono,trend-chaser,Oceania,1
+40,117.5,21,3,0,1,6,Labubu,reseller,Europe,0
+40,72.84,26,2,1,3,10,Skullpanda,display-focused,North America,1
+23,64.32,30,2,0,2,6,Labubu,casual,East Asia,1
+38,81.61,21,1,10,5,2,Molly,trend-chaser,North America,0
+37,71.91,29,1,8,7,6,Dimoo,reseller,Southeast Asia,1
+31,60.43,21,4,10,1,0,Skullpanda,display-focused,Southeast Asia,0
+46,88.61,19,5,9,0,5,Skullpanda,trend-chaser,North America,1
+43,77.39,35,3,2,8,6,Labubu,display-focused,East Asia,1
+37,162.35,15,7,5,3,0,Molly,display-focused,East Asia,1
+45,71.87,34,2,7,6,2,Dimoo,trend-chaser,North America,1
+46,64.1,28,3,8,0,10,Labubu,completionist,East Asia,1
+38,86.35,35,4,7,6,6,Skullpanda,trend-chaser,Europe,1
+26,95.36,26,2,4,10,5,Skullpanda,trend-chaser,Europe,1
+46,98.28,17,2,0,4,2,Molly,completionist,East Asia,1
+44,97.9,18,1,10,6,1,Molly,casual,East Asia,1
+55,87.51,24,3,7,3,4,Hirono,trend-chaser,East Asia,1
+21,85.02,14,4,9,3,6,Molly,display-focused,Europe,1
+32,109.47,25,2,2,0,1,Labubu,completionist,East Asia,1
+52,58.43,11,3,1,5,8,Crybaby,completionist,Europe,1
+36,64.27,21,2,9,10,4,Labubu,casual,East Asia,1
+53,46.71,37,2,8,1,0,Hirono,casual,North America,0
+16,58.78,27,3,9,4,1,Labubu,completionist,East Asia,1
+17,128.97,27,4,4,9,9,Molly,reseller,Europe,1
+47,107.59,21,6,9,5,3,Skullpanda,display-focused,North America,1
+30,171.72,32,1,2,8,4,Labubu,casual,North America,1
+36,153.95,29,3,8,4,2,Dimoo,display-focused,Europe,1
+33,107.97,19,2,5,6,8,Molly,reseller,North America,1
+32,91.36,30,5,1,10,8,Skullpanda,casual,Europe,1
+53,87.01,26,3,7,6,2,Hirono,completionist,Europe,1
+19,37.72,26,3,3,8,8,Skullpanda,completionist,East Asia,1
+46,83.24,21,5,1,7,4,Skullpanda,display-focused,Oceania,1
+51,68.51,29,1,7,1,1,Molly,completionist,Southeast Asia,0
+42,59.74,16,6,8,1,8,Labubu,trend-chaser,Oceania,1
+31,101.05,25,4,3,6,0,Crybaby,casual,Oceania,0
+22,79.36,10,3,10,3,9,Skullpanda,casual,North America,1
+43,89.11,24,6,7,5,0,Dimoo,casual,North America,1
+34,56.55,27,3,0,5,3,Skullpanda,reseller,North America,1
+21,119.57,30,3,3,8,2,Molly,trend-chaser,North America,1
+30,71.74,19,4,10,10,2,Labubu,completionist,Southeast Asia,1
+54,98.91,16,0,1,10,5,Labubu,trend-chaser,Southeast Asia,0
+26,74.06,30,3,10,0,8,Skullpanda,completionist,East Asia,0
+23,35.68,20,5,5,8,4,Molly,casual,Southeast Asia,0
+43,102.69,31,5,7,7,5,Labubu,casual,East Asia,1
+23,81.38,31,5,7,9,10,Skullpanda,completionist,Europe,1
+52,45.61,13,4,5,4,5,Skullpanda,completionist,North America,1
+50,54.07,25,8,5,5,8,Skullpanda,completionist,Oceania,1
+55,121.02,27,4,6,4,4,Hirono,completionist,East Asia,1
+52,46.37,21,2,7,4,0,Skullpanda,display-focused,Europe,0
+25,71.02,30,3,8,2,2,Labubu,display-focused,North America,0
+24,178.28,12,2,4,7,1,Hirono,completionist,Southeast Asia,1
+29,103.76,19,1,4,0,9,Skullpanda,reseller,Southeast Asia,1
+34,114.16,19,4,8,8,0,Skullpanda,reseller,East Asia,1
+51,76.71,23,7,8,9,9,Hirono,display-focused,Oceania,1
+45,44.27,37,3,7,2,1,Labubu,trend-chaser,Europe,1
+41,92.49,27,1,5,2,1,Skullpanda,display-focused,Oceania,0
+51,55.44,29,7,6,5,5,Molly,display-focused,East Asia,1
+41,53.51,27,5,6,9,0,Labubu,reseller,East Asia,1
+31,88.3,18,3,4,1,0,Skullpanda,trend-chaser,Southeast Asia,1
+32,56.85,20,2,1,4,8,Molly,trend-chaser,Southeast Asia,1
+36,84.34,29,4,5,2,0,Labubu,casual,North America,1
+19,65.08,23,4,4,9,6,Skullpanda,casual,Southeast Asia,1
+45,83.2,30,2,0,9,1,Molly,reseller,East Asia,1
+42,69.27,26,4,10,0,0,Skullpanda,reseller,North America,1
+45,84.11,29,1,7,1,7,Labubu,display-focused,East Asia,1
+37,148.49,23,1,1,1,4,Molly,casual,Europe,0
+47,115.21,24,3,2,8,0,Skullpanda,display-focused,East Asia,1
+53,80.48,21,4,6,9,7,Skullpanda,casual,Europe,1
+38,138.43,26,5,9,4,10,Dimoo,casual,North America,1
+33,99.48,26,4,5,1,6,Crybaby,completionist,North America,1
+20,134.42,36,7,8,7,4,Labubu,casual,East Asia,1
+47,48.12,22,3,1,9,9,Molly,completionist,North America,0
+52,57.09,27,4,5,10,3,Hirono,completionist,East Asia,1
+43,92.06,28,1,9,4,6,Dimoo,display-focused,East Asia,1
+50,79.71,25,4,9,8,5,Crybaby,display-focused,North America,1
+50,84.18,19,2,2,10,7,Dimoo,trend-chaser,North America,1
+47,105.96,23,2,7,9,5,Dimoo,completionist,Europe,1
+36,92.42,29,6,0,5,5,Labubu,trend-chaser,Southeast Asia,1
+19,119.75,27,1,1,2,4,Molly,display-focused,Oceania,0
+16,118.4,13,2,9,4,3,Skullpanda,completionist,Europe,1
+24,58.07,31,3,8,3,5,Skullpanda,trend-chaser,North America,1
+33,36.06,25,3,2,10,0,Hirono,casual,East Asia,0
+45,56.71,18,3,10,8,3,Crybaby,casual,Europe,1
+34,55.39,22,3,10,9,0,Labubu,trend-chaser,Europe,0
+16,86.67,17,3,0,8,3,Skullpanda,display-focused,Europe,1
+24,86.23,23,3,0,5,3,Hirono,casual,East Asia,1
+55,77.85,21,7,2,8,0,Hirono,trend-chaser,North America,0
+55,101.01,16,1,8,7,3,Hirono,casual,Southeast Asia,1
+31,212.93,21,5,6,8,7,Dimoo,completionist,Europe,1
+48,77.19,24,5,5,3,10,Crybaby,reseller,Europe,1
+44,93.58,21,9,4,2,6,Molly,reseller,Southeast Asia,1
+53,84.18,17,0,5,1,7,Labubu,display-focused,Europe,0
+51,66.94,12,4,7,3,7,Labubu,casual,North America,1
+41,106.35,16,3,0,10,10,Skullpanda,trend-chaser,North America,0
+31,75.73,32,5,6,10,10,Hirono,reseller,East Asia,1
+41,61.66,23,2,2,1,1,Skullpanda,casual,East Asia,0
+28,63.37,18,1,8,6,5,Dimoo,display-focused,East Asia,1
+29,121.53,29,2,2,10,9,Molly,display-focused,North America,1
+40,105.29,29,3,0,8,9,Dimoo,casual,North America,1
+38,69.75,19,0,4,6,5,Labubu,trend-chaser,Europe,1
+39,100.35,21,3,4,6,4,Skullpanda,trend-chaser,Europe,1
+31,84.57,29,0,5,3,0,Labubu,display-focused,Europe,0
+32,94.23,22,2,9,10,5,Skullpanda,trend-chaser,Europe,0
+16,66.28,27,4,7,0,5,Skullpanda,reseller,East Asia,0
+40,56.01,19,3,3,9,6,Dimoo,reseller,East Asia,1
+39,75.57,16,3,7,9,5,Skullpanda,trend-chaser,East Asia,1
+53,59.5,19,1,5,2,2,Crybaby,display-focused,East Asia,1
+36,57.9,26,0,2,5,10,Crybaby,trend-chaser,North America,1
+34,49.08,26,2,0,9,2,Molly,casual,East Asia,1
+18,36.14,20,6,0,5,4,Labubu,display-focused,North America,1
+23,70.22,27,0,2,3,5,Labubu,completionist,East Asia,1
+29,130.93,25,1,9,0,3,Labubu,casual,Europe,1
+31,117.46,15,2,5,4,0,Labubu,reseller,East Asia,1
+30,158.02,16,5,4,3,6,Hirono,display-focused,Southeast Asia,0
+31,57.0,27,2,4,9,2,Crybaby,display-focused,Europe,1
+46,109.15,16,4,2,9,9,Labubu,completionist,North America,1
+21,80.33,20,5,7,3,8,Dimoo,casual,Southeast Asia,1
+29,63.41,29,3,0,2,4,Hirono,casual,Europe,1
+22,124.67,28,3,6,3,5,Molly,casual,Europe,0
+28,80.65,17,2,10,4,10,Hirono,trend-chaser,North America,1
+43,42.38,30,2,9,7,0,Crybaby,reseller,Europe,1
+17,116.94,18,1,4,1,4,Crybaby,completionist,East Asia,1
+29,97.59,12,4,9,10,0,Dimoo,completionist,Southeast Asia,1
+16,88.62,28,2,2,7,1,Molly,completionist,East Asia,1
+54,52.95,30,4,2,1,10,Labubu,casual,Europe,0
+45,92.72,15,5,3,3,1,Crybaby,casual,Southeast Asia,0
+25,148.66,31,2,0,7,10,Molly,completionist,Southeast Asia,1
+23,96.51,28,4,2,5,8,Skullpanda,casual,North America,1
+19,46.64,30,2,9,5,7,Molly,trend-chaser,East Asia,0
+34,99.45,24,2,8,0,8,Skullpanda,casual,North America,1
+46,96.92,21,0,3,4,2,Labubu,completionist,North America,0
+39,112.78,26,1,3,6,1,Hirono,display-focused,Southeast Asia,0
+51,95.84,28,2,3,8,4,Skullpanda,reseller,Southeast Asia,1
+29,57.97,27,5,1,4,8,Molly,trend-chaser,Southeast Asia,1
+27,86.73,17,3,1,6,3,Molly,display-focused,Europe,0
+35,76.07,32,2,10,2,1,Skullpanda,casual,North America,0
+24,90.82,22,3,7,8,8,Hirono,completionist,North America,1
+55,126.58,20,5,7,7,6,Crybaby,casual,North America,1
+23,65.0,28,5,3,8,5,Hirono,casual,Europe,1
+35,168.39,23,4,9,7,4,Skullpanda,completionist,East Asia,1
+36,99.19,24,1,1,10,8,Hirono,casual,East Asia,1
+18,117.21,20,0,10,9,8,Skullpanda,casual,North America,0
+34,110.78,27,1,5,8,3,Dimoo,display-focused,North America,1
+34,97.6,36,2,3,3,1,Dimoo,display-focused,North America,1
+26,104.83,28,0,8,0,9,Molly,trend-chaser,East Asia,1
+21,26.64,23,2,4,0,1,Skullpanda,casual,North America,0
+17,110.7,20,2,2,8,4,Dimoo,display-focused,North America,1
+16,59.63,18,4,7,9,9,Molly,completionist,Europe,1
+35,82.53,32,0,7,7,4,Dimoo,trend-chaser,North America,1
+19,97.32,23,5,6,7,9,Molly,display-focused,Europe,1
+54,128.94,27,1,5,0,5,Skullpanda,completionist,Southeast Asia,1
+25,59.63,28,4,3,6,8,Hirono,completionist,North America,1
+42,70.88,36,3,4,6,6,Labubu,display-focused,North America,1
+42,74.56,27,4,9,1,3,Molly,casual,North America,1
+35,91.26,26,5,3,8,9,Skullpanda,completionist,North America,1
+51,76.34,17,1,10,3,5,Labubu,casual,Southeast Asia,1
+20,105.02,14,3,1,2,5,Labubu,display-focused,East Asia,0
+25,42.92,28,4,1,7,7,Dimoo,completionist,Europe,1
+26,79.99,26,0,3,4,10,Labubu,casual,East Asia,1
+21,154.91,23,4,0,5,9,Dimoo,casual,North America,1
+27,76.42,27,1,9,5,4,Labubu,display-focused,Europe,0
+28,99.34,24,3,3,6,2,Labubu,trend-chaser,North America,0
+46,120.7,33,6,1,4,3,Molly,reseller,Southeast Asia,1
+28,98.05,25,5,6,8,2,Crybaby,display-focused,East Asia,1
+51,174.95,32,2,10,9,3,Skullpanda,display-focused,North America,1
+46,87.53,32,2,10,5,4,Molly,trend-chaser,Southeast Asia,1
+52,107.14,33,1,1,1,0,Molly,completionist,North America,0
+20,92.75,24,1,8,3,5,Skullpanda,completionist,North America,1
+55,141.56,14,1,3,8,9,Dimoo,casual,North America,1
+40,72.2,28,8,9,2,4,Molly,casual,North America,1
+55,181.16,25,2,6,8,0,Labubu,casual,North America,0
+30,65.6,21,3,8,7,4,Skullpanda,trend-chaser,Southeast Asia,1
+54,161.28,23,2,9,4,3,Dimoo,trend-chaser,North America,1
+39,57.12,24,5,9,1,6,Hirono,casual,Europe,0
+18,108.53,22,3,1,5,2,Skullpanda,completionist,North America,1
+32,84.57,20,5,7,7,3,Dimoo,trend-chaser,North America,1
+21,119.67,22,3,1,1,8,Skullpanda,trend-chaser,North America,1
+53,100.32,15,2,10,9,1,Skullpanda,display-focused,North America,1
+28,117.02,26,3,6,2,10,Dimoo,casual,Europe,1
+24,56.41,14,6,2,4,3,Labubu,trend-chaser,North America,1
+38,45.42,29,4,3,5,8,Crybaby,casual,North America,1
+33,53.16,24,5,9,8,0,Molly,casual,East Asia,1
+19,52.69,20,5,7,2,3,Dimoo,casual,Oceania,0
+48,56.16,29,2,2,3,4,Skullpanda,completionist,North America,0
+49,67.25,29,2,9,8,5,Hirono,casual,East Asia,0
+45,67.03,26,2,7,3,1,Labubu,completionist,East Asia,1
+40,85.35,28,4,0,6,2,Hirono,trend-chaser,East Asia,0
+32,61.19,16,1,3,4,9,Labubu,display-focused,East Asia,0
+37,62.99,36,5,9,0,10,Labubu,trend-chaser,Europe,1
+36,78.19,16,3,3,5,4,Hirono,trend-chaser,Southeast Asia,1
+22,126.43,29,4,0,3,1,Molly,reseller,North America,1
+19,71.73,17,5,6,2,3,Dimoo,completionist,Europe,1
+26,83.15,26,4,9,9,10,Skullpanda,trend-chaser,East Asia,1
+34,88.46,21,0,6,8,10,Crybaby,completionist,Southeast Asia,1
+22,58.49,25,4,10,3,8,Hirono,casual,Europe,1
+20,74.4,23,5,1,5,9,Molly,trend-chaser,Oceania,1
+50,64.84,30,2,7,7,7,Hirono,display-focused,East Asia,1
+30,121.48,28,4,7,0,6,Labubu,trend-chaser,East Asia,1
+39,117.38,27,3,10,1,8,Dimoo,display-focused,Southeast Asia,1
+36,62.42,23,0,5,5,7,Dimoo,display-focused,East Asia,1
+45,82.54,26,1,9,10,3,Dimoo,reseller,East Asia,1
+45,107.17,21,2,1,10,7,Dimoo,completionist,Southeast Asia,1
+27,95.96,23,1,0,4,3,Hirono,display-focused,North America,0
+49,100.06,11,1,7,7,6,Skullpanda,trend-chaser,Southeast Asia,1
+30,58.62,29,1,0,5,4,Crybaby,display-focused,Southeast Asia,1
+49,158.73,18,3,9,9,5,Labubu,casual,East Asia,1
+32,66.77,15,2,0,6,1,Molly,completionist,North America,0
+20,66.06,30,8,7,9,10,Hirono,casual,North America,1
+46,50.92,29,1,4,3,8,Molly,display-focused,North America,0
+17,79.5,24,3,7,10,1,Skullpanda,casual,North America,1
+46,131.99,23,1,6,7,5,Hirono,casual,East Asia,1
+17,95.57,29,3,4,8,4,Skullpanda,trend-chaser,Southeast Asia,1
+24,81.92,26,1,5,0,9,Labubu,casual,East Asia,1
+40,113.89,32,4,5,8,8,Labubu,reseller,Europe,1
+53,130.62,17,6,7,1,9,Molly,completionist,Oceania,0
+32,117.27,9,2,7,10,5,Molly,casual,Southeast Asia,1
+20,41.16,23,4,4,2,1,Labubu,trend-chaser,East Asia,0
+25,114.29,23,4,3,9,7,Hirono,casual,Europe,0
+51,101.65,20,3,0,6,2,Molly,display-focused,East Asia,1
+45,61.92,27,3,8,4,7,Hirono,reseller,Europe,1
+20,101.82,22,4,2,9,4,Crybaby,reseller,North America,1
+31,132.1,9,6,4,4,3,Molly,display-focused,East Asia,1
+26,67.86,26,1,10,0,1,Crybaby,trend-chaser,East Asia,1
+23,120.69,18,4,8,0,8,Labubu,trend-chaser,Europe,1
+49,96.41,23,1,3,9,7,Dimoo,display-focused,Southeast Asia,1
+40,29.39,29,3,5,4,3,Crybaby,completionist,Southeast Asia,1
+23,84.26,22,2,3,9,8,Hirono,display-focused,East Asia,1
+42,94.89,22,3,6,0,10,Labubu,display-focused,North America,1
+32,75.53,21,4,1,0,7,Molly,display-focused,North America,1
+18,97.84,25,4,10,10,10,Molly,casual,East Asia,1
+33,80.77,26,1,10,1,5,Crybaby,completionist,Southeast Asia,0
+23,197.35,15,4,3,7,4,Molly,casual,Europe,1
+25,73.5,22,1,2,3,9,Skullpanda,casual,North America,1
+51,62.57,19,4,5,5,7,Molly,display-focused,North America,1
+44,118.19,20,1,7,1,6,Molly,casual,North America,1
+21,77.1,14,4,7,2,7,Molly,completionist,East Asia,0
+50,82.45,32,4,0,8,10,Molly,completionist,Europe,0
+38,79.73,18,5,7,5,7,Skullpanda,casual,North America,1
+50,115.51,11,2,0,5,8,Skullpanda,casual,Europe,1
+45,56.01,19,1,3,10,0,Skullpanda,casual,Southeast Asia,1
+29,120.59,22,0,7,4,7,Skullpanda,completionist,Europe,0
+37,104.99,21,5,9,8,3,Molly,casual,North America,1
+37,168.62,32,1,6,7,1,Dimoo,completionist,East Asia,1
+44,91.97,18,3,1,5,3,Skullpanda,completionist,Southeast Asia,0
+25,57.49,24,2,7,3,9,Skullpanda,display-focused,North America,1
+29,92.37,31,2,0,3,8,Labubu,casual,North America,0
+25,96.93,25,1,2,9,3,Labubu,display-focused,East Asia,1
+27,136.89,19,4,1,3,2,Hirono,display-focused,North America,0
+22,57.44,18,5,10,7,4,Hirono,display-focused,Southeast Asia,1
+17,46.66,23,3,4,1,3,Molly,trend-chaser,East Asia,1
+53,93.14,20,1,6,3,5,Molly,casual,North America,1
+18,171.82,15,3,8,10,8,Molly,casual,Southeast Asia,1
+51,111.2,26,1,10,5,3,Dimoo,trend-chaser,East Asia,1
+16,113.84,33,2,10,9,1,Labubu,trend-chaser,Europe,1
+47,50.44,27,8,1,2,1,Crybaby,display-focused,North America,0
+29,87.09,28,3,4,8,7,Labubu,completionist,East Asia,1
+36,137.98,23,1,4,10,2,Crybaby,casual,Southeast Asia,0
+27,97.39,31,4,8,10,2,Labubu,reseller,North America,1
+35,45.57,27,5,3,4,8,Molly,completionist,Europe,1
+34,86.41,31,3,2,7,1,Molly,display-focused,Southeast Asia,1
+37,108.05,36,5,8,9,7,Molly,display-focused,Europe,1
+31,26.36,18,3,5,8,0,Crybaby,display-focused,North America,1
+37,82.74,19,6,8,10,10,Skullpanda,reseller,North America,1
+49,60.06,22,2,4,0,7,Labubu,casual,East Asia,0
+33,119.67,32,1,5,5,9,Crybaby,display-focused,East Asia,1
+30,72.38,27,3,0,8,7,Molly,casual,North America,1
+21,101.11,18,5,0,8,4,Labubu,reseller,North America,1
+30,85.51,22,4,0,1,10,Labubu,casual,East Asia,1
+21,71.32,28,5,1,6,8,Skullpanda,trend-chaser,East Asia,1
+23,180.28,29,4,3,1,0,Crybaby,display-focused,North America,1
+54,68.28,21,2,0,1,6,Labubu,display-focused,Europe,1
+19,88.34,17,1,1,1,5,Dimoo,display-focused,East Asia,0
+35,85.4,18,0,9,10,3,Molly,display-focused,North America,1
+49,92.21,30,2,9,2,5,Labubu,display-focused,North America,1
+54,174.37,20,1,3,5,10,Dimoo,display-focused,Southeast Asia,1
+21,108.1,15,1,10,2,0,Dimoo,casual,Southeast Asia,0
+22,71.06,17,3,1,9,10,Skullpanda,display-focused,North America,1
+30,150.72,22,4,0,9,7,Labubu,reseller,Southeast Asia,1
+38,115.73,28,2,3,7,1,Labubu,casual,East Asia,1
+54,71.6,16,4,2,9,3,Dimoo,trend-chaser,Oceania,0
+24,140.88,26,6,0,1,9,Skullpanda,trend-chaser,Oceania,1
+22,50.25,29,3,9,10,7,Skullpanda,completionist,East Asia,0
+26,55.16,26,1,10,4,0,Labubu,casual,Europe,0
+50,44.53,20,1,2,4,1,Hirono,completionist,North America,0
+17,38.07,18,4,3,2,10,Labubu,trend-chaser,East Asia,1
+31,136.62,24,2,7,9,1,Dimoo,display-focused,Europe,1
+20,92.67,41,2,10,1,6,Dimoo,casual,East Asia,0
+22,45.95,20,2,3,9,10,Labubu,display-focused,North America,0
+52,84.52,21,4,7,7,1,Skullpanda,display-focused,Southeast Asia,0
+16,122.24,26,6,0,8,0,Skullpanda,casual,Oceania,0
+28,63.7,23,4,6,0,8,Skullpanda,casual,North America,0
+52,75.53,25,4,10,8,10,Crybaby,completionist,East Asia,1
+40,184.06,20,4,5,10,5,Skullpanda,display-focused,Southeast Asia,1
+18,78.24,25,1,7,4,2,Labubu,casual,East Asia,1
+34,47.27,29,3,7,4,0,Molly,trend-chaser,Southeast Asia,1
+54,69.39,22,2,6,1,10,Dimoo,casual,Europe,1
+32,44.86,26,2,7,5,8,Molly,casual,North America,1
+37,111.73,18,5,9,7,9,Hirono,casual,Europe,1
+37,60.32,24,2,0,3,8,Labubu,casual,Europe,1
+42,59.6,21,2,9,8,4,Labubu,completionist,North America,1
+23,191.53,24,2,9,0,5,Labubu,casual,Southeast Asia,1
+49,52.95,31,3,9,7,4,Hirono,trend-chaser,East Asia,1
+55,49.51,15,0,4,6,8,Dimoo,trend-chaser,Europe,1
+21,56.23,27,2,6,2,1,Skullpanda,display-focused,Europe,1
+48,123.85,26,2,3,3,0,Molly,reseller,Europe,1
+48,105.72,23,6,9,2,10,Crybaby,completionist,Europe,1
+45,69.05,26,3,4,6,3,Hirono,trend-chaser,East Asia,1
+30,66.63,26,7,3,7,0,Molly,casual,North America,0
+34,102.41,15,2,7,6,7,Dimoo,completionist,Southeast Asia,1
+49,94.1,31,3,0,2,4,Crybaby,casual,Southeast Asia,1
+22,80.25,30,2,4,2,2,Molly,casual,East Asia,0
+49,107.22,23,4,2,8,4,Molly,trend-chaser,East Asia,1
+52,54.83,18,2,4,5,4,Skullpanda,casual,Southeast Asia,1
+43,60.7,26,1,4,4,6,Molly,display-focused,North America,0
+29,109.53,28,7,0,3,10,Hirono,casual,North America,1
+38,97.2,24,2,9,10,9,Skullpanda,trend-chaser,North America,1
+18,37.1,22,4,4,2,9,Labubu,display-focused,Europe,1
+53,86.89,28,3,3,8,5,Molly,casual,North America,1
+29,188.47,18,2,1,8,6,Dimoo,completionist,East Asia,1
+18,116.93,24,2,10,2,1,Labubu,casual,Europe,1
+47,69.85,28,3,9,0,6,Molly,casual,North America,1
+42,62.72,16,5,5,2,7,Labubu,completionist,Europe,1
+40,99.08,26,9,3,2,9,Hirono,trend-chaser,North America,0
+18,136.44,39,0,5,8,0,Labubu,reseller,East Asia,1
+46,42.54,20,2,10,5,9,Labubu,casual,North America,0
+41,96.17,35,2,2,4,5,Hirono,display-focused,North America,1
+47,75.04,29,3,7,5,0,Labubu,reseller,North America,1
+49,92.66,31,3,9,10,10,Dimoo,casual,East Asia,1
+24,48.25,23,2,8,10,5,Molly,reseller,North America,1
+24,136.4,23,3,9,0,4,Hirono,display-focused,East Asia,1
+52,152.14,16,1,10,9,2,Labubu,trend-chaser,Southeast Asia,1
+37,112.48,29,1,0,3,0,Labubu,display-focused,Europe,1
+33,165.47,31,3,2,8,0,Labubu,trend-chaser,North America,1
+27,73.57,25,2,1,10,2,Crybaby,display-focused,East Asia,1
+41,95.25,23,2,6,5,3,Hirono,reseller,North America,1
+46,113.17,21,3,4,6,5,Molly,casual,Southeast Asia,1
+16,99.62,25,1,0,4,6,Labubu,completionist,Southeast Asia,1
+38,77.3,31,3,6,0,10,Labubu,display-focused,Europe,1
+55,80.6,26,2,1,0,8,Labubu,casual,North America,1
+27,146.17,16,2,4,3,5,Labubu,display-focused,East Asia,1
+27,85.13,20,3,4,9,10,Hirono,casual,East Asia,0
