@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 import random
 import urllib.error
 import urllib.request
@@ -10,6 +11,7 @@ import streamlit as st
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 MODEL_PATH = PROJECT_ROOT / "model" / "model.pkl"
+FASTAPI_URL = os.getenv("FASTAPI_URL", "http://127.0.0.1:8000").rstrip("/")
 
 
 def interpret_probability(probability: float) -> str:
@@ -29,12 +31,15 @@ def load_model():
 
 def get_api_status() -> tuple[str, str]:
     try:
-        with urllib.request.urlopen("http://127.0.0.1:8000/health", timeout=0.8) as response:
+        with urllib.request.urlopen(f"{FASTAPI_URL}/health", timeout=0.8) as response:
             if response.status == 200:
-                return "🟢 FastAPI online", "The REST API is available at http://127.0.0.1:8000."
+                return "🟢 API connected", f"REST endpoints are available at {FASTAPI_URL}."
     except (urllib.error.URLError, TimeoutError, OSError):
         pass
-    return "🟡 FastAPI not running", "Start the API with `uvicorn app_api.main:app --reload` when you want to test REST endpoints."
+    return (
+        "🟡 API optional",
+        "The dashboard still works with the saved model. Start FastAPI with `python -m uvicorn app_api.main:app --reload` to demo REST endpoints.",
+    )
 
 
 CHARACTER_EMOJIS = {
