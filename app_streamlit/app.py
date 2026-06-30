@@ -13,24 +13,24 @@ FASTAPI_URL = os.getenv("FASTAPI_URL", DEFAULT_FASTAPI_URL).rstrip("/")
 
 def interpret_probability(probability: float) -> str:
     if probability >= 0.75:
-        return "Very likely to buy the next release."
+        return "Strong Hardcore collector signal."
     if probability >= 0.55:
-        return "Likely to buy, especially if the release matches their favorite series."
+        return "Strong Enthusiast collector signal."
     if probability >= 0.35:
         return "Mixed intent; interest may depend on price, rarity, and design."
-    return "Unlikely to buy the next release."
+    return "Strong Casual collector signal."
 
 
 def get_api_status() -> tuple[str, str]:
     try:
-        with urllib.request.urlopen(f"{FASTAPI_URL}/health", timeout=0.8) as response:
+        with urllib.request.urlopen(f"{FASTAPI_URL}/health", timeout=8) as response:
             if response.status == 200:
                 return "🟢 API connected", f"REST endpoints are available at {FASTAPI_URL}."
     except (urllib.error.URLError, TimeoutError, OSError):
         pass
     return (
         "🟡 API waking or unavailable",
-        f"Predictions are served by FastAPI at {FASTAPI_URL}. If the Space is sleeping, refresh again in a moment.",
+        f"Predictions are served by FastAPI at {FASTAPI_URL}. Hugging Face may need a minute to wake the Space before predictions are available.",
     )
 
 
@@ -692,6 +692,11 @@ st.sidebar.markdown(
             <div class="sidebar-status">{api_status_title}</div>
             {api_status_detail}
         </div>
+        <div class="sidebar-note">
+            <div class="sidebar-status">🚀 Live API Deployment</div>
+            Hosted on Hugging Face Spaces<br>
+            Endpoint: /predict
+        </div>
         <div class="sidebar-footer">Built with ❤️ using FastAPI + Streamlit + Scikit-learn</div>
     </div>
     """,
@@ -733,15 +738,20 @@ st.markdown(
             <div class="info-title">🧭 How this works</div>
             <div class="info-list">
                 <div>👤 User enters collector habits.</div>
-                <div>🎨 Streamlit sends the collector profile to FastAPI.</div>
-                <div>⚡ FastAPI receives the request through the /predict endpoint.</div>
-                <div>🤖 FastAPI loads the saved Random Forest model.</div>
-                <div>📊 The model returns collector level and probabilities for display.</div>
+                <div>🖥️ Streamlit Frontend sends a JSON payload.</div>
+                <div>📨 The request goes to POST /predict.</div>
+                <div>🤗 Hugging Face Spaces hosts the deployed backend.</div>
+                <div>⚡ FastAPI REST API serves the trained model.</div>
+                <div>🌲 Random Forest Pipeline scores the collector profile.</div>
+                <div>📄 FastAPI returns a JSON response with prediction and probability.</div>
+                <div>📊 Streamlit displays the result card, probability bars, and Mystery Box Insight.</div>
             </div>
         </div>
         <div class="disclaimer-card">
             <div class="info-title">📌 Model disclaimer</div>
             This is an educational mini project using synthetic data. Predictions are for demonstration purposes only.
+            <br><br>
+            The frontend and backend are separated: Streamlit handles the user interface, while FastAPI serves the trained model.
         </div>
     </div>
     """,
