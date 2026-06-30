@@ -21,16 +21,17 @@ The project uses synthetic collector behavior data, a trained Random Forest pipe
 ## Final Architecture
 
 ```text
-Streamlit frontend
--> sends JSON payload to deployed FastAPI backend
--> FastAPI hosted on Hugging Face Spaces
--> FastAPI loads model/model.pkl
--> Random Forest pipeline predicts collector level
--> API returns prediction and probability
--> Streamlit displays result card, probability bars, and Mystery Box Insight
+👤 User input in Streamlit
+→ 🖥️ Streamlit Frontend sends JSON payload
+→ POST /predict
+→ 🤗 Hugging Face Spaces
+→ ⚡ FastAPI REST API
+→ 🌲 Random Forest Pipeline
+→ 📄 JSON response with prediction and probability
+→ 📊 Streamlit displays result card, probability bars, and Mystery Box Insight
 ```
 
-In the final version, Streamlit acts as the frontend and sends user input to the deployed FastAPI service. FastAPI handles model serving and returns a JSON response. Streamlit then turns the response into a presentation-friendly collector profile card.
+Streamlit collects user inputs and sends them as a JSON payload to the deployed FastAPI backend hosted on Hugging Face Spaces. The frontend and backend are separated: Streamlit handles the user interface, while FastAPI serves the trained model.
 
 ## Dataset And Model
 
@@ -105,13 +106,13 @@ Example response:
 ```json
 {
   "prediction": 1,
-  "label": "Will buy next release",
+  "label": "Collector profile detected",
   "probability": 0.8125,
-  "interpretation": "Very likely to buy the next release."
+  "interpretation": "High collector engagement profile."
 }
 ```
 
-The API returns the model prediction and model probability. Streamlit uses that probability to display Casual, Enthusiast, and Hardcore probability bars.
+The API returns the model prediction and model probability. Streamlit uses that probability to display Casual, Enthusiast, and Hardcore collector levels and probability bars.
 
 ## Streamlit Frontend
 
@@ -140,6 +141,13 @@ Docker start command:
 CMD ["python", "-m", "uvicorn", "app_api.main:app", "--host", "0.0.0.0", "--port", "7860"]
 ```
 
+GitHub is used for source code hosting, version control, and project submission history.
+
+Suggested GitHub description:
+
+```text
+End-to-end MLOps mini project with FastAPI, Streamlit, Random Forest, Docker, and Hugging Face Spaces deployment.
+```
 
 ## Run Locally
 
