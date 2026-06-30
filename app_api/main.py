@@ -37,7 +37,7 @@ class PredictionResponse(BaseModel):
 
 app = FastAPI(
     title="POP MART Collector Predictor",
-    description="Predicts whether a collector is likely to buy the next POP MART release.",
+    description="Serves collector engagement predictions for the POP MART Collector Predictor.",
     version="1.0.0",
 )
 
@@ -58,19 +58,19 @@ def get_model():
 
 def interpret_probability(probability: float) -> str:
     if probability >= 0.75:
-        return "Very likely to buy the next release."
+        return "High collector engagement profile."
     if probability >= 0.55:
-        return "Likely to buy, especially if the release matches their favorite series."
+        return "Moderate to high collector engagement profile."
     if probability >= 0.35:
-        return "Mixed intent; interest may depend on price, rarity, and design."
-    return "Unlikely to buy the next release."
+        return "Balanced collector engagement profile."
+    return "Casual collector engagement profile."
 
 
 @app.get("/")
 def root() -> dict[str, str]:
     return {
         "name": "POP MART Collector Predictor",
-        "message": "Use POST /predict to estimate next-release purchase intent.",
+        "message": "Use POST /predict to estimate collector engagement.",
     }
 
 
@@ -88,7 +88,7 @@ def predict(collector: CollectorInput) -> PredictionResponse:
 
     return PredictionResponse(
         prediction=prediction,
-        label="Will buy next release" if prediction else "May skip next release",
+        label="High collector engagement" if prediction else "Lower collector engagement",
         probability=round(probability, 4),
         interpretation=interpret_probability(probability),
     )
