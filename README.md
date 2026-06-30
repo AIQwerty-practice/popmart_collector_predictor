@@ -143,7 +143,7 @@ CMD ["python", "-m", "uvicorn", "app_api.main:app", "--host", "0.0.0.0", "--port
 
 GitHub is used for source code hosting, version control, and project submission history.
 
-Suggested GitHub description:
+GitHub description:
 
 ```text
 End-to-end MLOps mini project with FastAPI, Streamlit, Random Forest, Docker, and Hugging Face Spaces deployment.
