@@ -51,7 +51,7 @@ def test_predict() -> None:
     assert response.status_code == 200
     body = response.json()
     assert body["prediction"] in [0, 1]
-    assert body["label"] in ["Will buy next release", "May skip next release"]
+    assert body["label"] in ["High collector engagement", "Lower collector engagement"]
     assert 0 <= body["probability"] <= 1
     assert body["interpretation"]
 
