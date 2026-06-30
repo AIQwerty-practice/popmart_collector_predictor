@@ -263,8 +263,5 @@ Prevents local virtual environments, caches, and compiled Python files from bein
 
 This is an educational mini project using synthetic data. Predictions are for demonstration purposes only.
 
-## Suggested GitHub Description
-
-```text
 End-to-end MLOps mini project with FastAPI, Streamlit, Random Forest, Docker, and Hugging Face Spaces deployment.
 ```
