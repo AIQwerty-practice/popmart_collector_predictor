@@ -106,13 +106,21 @@ Example response:
 ```json
 {
   "prediction": 1,
-  "label": "Collector profile detected",
-  "probability": 0.8125,
+  "label": "High collector engagement",
+  "probability": 0.8697,
   "interpretation": "High collector engagement profile."
 }
 ```
 
-The API returns the model prediction and model probability. Streamlit uses that probability to display Casual, Enthusiast, and Hardcore collector levels and probability bars.
+The API returns a numeric prediction and probability. Streamlit maps the returned probability into collector levels for presentation:
+
+```text
+probability < 0.45  -> Casual
+probability < 0.75  -> Enthusiast
+probability >= 0.75 -> Hardcore
+```
+
+Streamlit also uses the probability to render the collector probability bars.
 
 ## Streamlit Frontend
 
