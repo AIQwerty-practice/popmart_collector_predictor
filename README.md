@@ -83,14 +83,31 @@ https://bee-ai-popmart-collector-predictor.hf.space/health
 
 The `/predict` endpoint accepts a JSON collector profile with numeric collecting habits, budget information, interest scores, and categorical profile choices. The exact request schema is defined in `app_api/main.py` and is visible in the deployed `/docs` page.
 
+Example request:
+
+```json
+{
+  "age": 29,
+  "monthly_budget_usd": 120,
+  "collection_size": 36,
+  "monthly_purchases": 5,
+  "resale_interest": 4,
+  "social_media_engagement": 8,
+  "blind_box_risk_tolerance": 7,
+  "favorite_series": "Labubu",
+  "collector_type": "completionist",
+  "region": "North America"
+}
+```
+
 Example response:
 
 ```json
 {
   "prediction": 1,
-  "label": "Collector profile detected",
+  "label": "Will buy next release",
   "probability": 0.8125,
-  "interpretation": "High collector engagement profile."
+  "interpretation": "Very likely to buy the next release."
 }
 ```
 
