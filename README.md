@@ -10,48 +10,50 @@ pinned: false
 
 # POP MART Collector Predictor
 
-POP MART Collector Predictor is an end-to-end MLOps mini project that estimates a collector profile from collecting habits. The project combines synthetic data generation, model training, FastAPI model serving, a Streamlit frontend, automated tests, Docker deployment, GitHub version control, and Hugging Face Spaces hosting.
+POP MART Collector Predictor is an end-to-end MLOps mini project that predicts a POP MART collector profile/level:
 
-The final architecture is:
+- Casual
+- Enthusiast
+- Hardcore
+
+The project uses synthetic collector behavior data, a trained Random Forest pipeline, a FastAPI model-serving backend, and a Streamlit companion dashboard.
+
+## Final Architecture
 
 ```text
-Streamlit frontend -> Hugging Face Spaces FastAPI backend -> Random Forest pipeline -> JSON prediction response -> Streamlit result dashboard
+Streamlit frontend
+-> sends JSON payload to deployed FastAPI backend
+-> FastAPI hosted on Hugging Face Spaces
+-> FastAPI loads model/model.pkl
+-> Random Forest pipeline predicts collector level
+-> API returns prediction and probability
+-> Streamlit displays result card, probability bars, and Mystery Box Insight
 ```
 
-## Project Overview
+In the final version, Streamlit acts as the frontend and sends user input to the deployed FastAPI service. FastAPI handles model serving and returns a JSON response. Streamlit then turns the response into a presentation-friendly collector profile card.
 
-This project uses a reproducible synthetic dataset of exactly 2,000 POP MART collector records. Each record includes collector attributes such as age, monthly budget, collection size, monthly purchases, resale interest, social media engagement, blind box risk tolerance, favorite series, collector type, and region.
+## Dataset And Model
 
-The machine learning model is a scikit-learn `Pipeline` that uses:
+The project uses exactly 2,000 synthetic POP MART collector records.
 
+The training workflow uses:
+
+- `scikit-learn Pipeline`
 - `ColumnTransformer`
 - `OneHotEncoder`
 - `RandomForestClassifier`
 
-The trained pipeline is saved as:
+The trained pipeline is saved at:
 
 ```text
 model/model.pkl
 ```
 
-FastAPI serves the model through REST endpoints, and Streamlit sends user input to the deployed FastAPI backend for prediction. Streamlit then displays the collector result, probability bars, character styling, and a fun Mystery Box Insight.
+## FastAPI Backend
 
-## Final Architecture
+FastAPI provides the model-serving layer.
 
-```text
-User input in Streamlit
--> Streamlit sends JSON payload
--> Hugging Face Spaces FastAPI /predict endpoint
--> Random Forest model pipeline
--> API returns JSON prediction and probability
--> Streamlit displays collector type, probability bars, result card, and Mystery Box Insight
-```
-
-## FastAPI Endpoints
-
-The backend is implemented in `app_api/main.py`.
-
-Available endpoints:
+Endpoints:
 
 ```text
 GET /
@@ -59,15 +61,13 @@ GET /health
 POST /predict
 ```
 
-The deployed API is hosted on Hugging Face Spaces using Docker.
-
 Live prediction endpoint:
 
 ```text
 https://bee-ai-popmart-collector-predictor.hf.space/predict
 ```
 
-Interactive API docs:
+Interactive API documentation:
 
 ```text
 https://bee-ai-popmart-collector-predictor.hf.space/docs
@@ -79,49 +79,43 @@ Health check:
 https://bee-ai-popmart-collector-predictor.hf.space/health
 ```
 
-## Example API Request
+## Example API Usage
 
-`POST /predict`
-
-```json
-{
-  "age": 29,
-  "monthly_budget_usd": 120,
-  "collection_size": 36,
-  "monthly_purchases": 5,
-  "resale_interest": 4,
-  "social_media_engagement": 8,
-  "blind_box_risk_tolerance": 7,
-  "favorite_series": "Labubu",
-  "collector_type": "completionist",
-  "region": "North America"
-}
-```
+The `/predict` endpoint accepts a JSON collector profile with numeric collecting habits, budget information, interest scores, and categorical profile choices. The exact request schema is defined in `app_api/main.py` and is visible in the deployed `/docs` page.
 
 Example response:
 
 ```json
 {
   "prediction": 1,
-  "label": "Will buy next release",
+  "label": "Collector profile detected",
   "probability": 0.8125,
-  "interpretation": "Very likely to buy the next release."
+  "interpretation": "High collector engagement profile."
 }
 ```
 
-Note: the API returns the model's positive-class probability. The Streamlit dashboard uses that probability to display collector levels and visual probability bars for Casual, Enthusiast, and Hardcore collector profiles.
+The API returns the model prediction and model probability. Streamlit uses that probability to display Casual, Enthusiast, and Hardcore probability bars.
+
+## Streamlit Frontend
+
+The Streamlit app is the user-facing dashboard. It collects user inputs, sends a JSON request to the deployed FastAPI backend, receives the prediction response, and displays:
+
+- Collector profile result card
+- Probability bars
+- Character-themed visual elements
+- Mystery Box Insight
+- Educational model disclaimer
 
 ## Deployment
 
-The FastAPI backend is deployed to Hugging Face Spaces as a Docker Space.
+The FastAPI backend is deployed on Hugging Face Spaces using Docker.
 
-The `Dockerfile`:
+The `Dockerfile` is used to:
 
-- Uses a lightweight Python image.
-- Installs dependencies from `requirements.txt`.
-- Copies the project files into the container.
-- Starts FastAPI with `uvicorn`.
-- Exposes the Hugging Face-required port `7860`.
+- Install the Python dependencies.
+- Copy the application files into the container.
+- Start FastAPI with `uvicorn`.
+- Expose port `7860`, which Hugging Face Spaces expects for Docker apps.
 
 Docker start command:
 
@@ -129,11 +123,17 @@ Docker start command:
 CMD ["python", "-m", "uvicorn", "app_api.main:app", "--host", "0.0.0.0", "--port", "7860"]
 ```
 
-GitHub is used for source control and project versioning.
+GitHub is used for source code hosting, version control, and project submission history.
+
+Suggested GitHub description:
+
+```text
+End-to-end MLOps mini project with FastAPI, Streamlit, Random Forest, Docker, and Hugging Face Spaces deployment.
+```
 
 ## Run Locally
 
-From the project root:
+Install dependencies:
 
 ```powershell
 python -m pip install -r requirements.txt
@@ -151,16 +151,10 @@ Train the model:
 python scripts/train_model.py
 ```
 
-Run FastAPI locally:
+Run FastAPI:
 
 ```powershell
 uvicorn app_api.main:app --reload
-```
-
-If `uvicorn` is not on PATH, use:
-
-```powershell
-python -m uvicorn app_api.main:app --reload
 ```
 
 Run Streamlit:
@@ -169,36 +163,17 @@ Run Streamlit:
 streamlit run app_streamlit/app.py
 ```
 
-If `streamlit` is not on PATH, use:
-
-```powershell
-python -m streamlit run app_streamlit/app.py
-```
-
-By default, the Streamlit app calls the deployed Hugging Face FastAPI backend:
-
-```text
-https://bee-ai-popmart-collector-predictor.hf.space
-```
-
-To point Streamlit to a local FastAPI backend instead:
-
-```powershell
-$env:FASTAPI_URL="http://127.0.0.1:8000"
-python -m streamlit run app_streamlit/app.py
-```
-
-## Test
-
-Run API tests:
+Run tests:
 
 ```powershell
 pytest tests/test_api.py
 ```
 
-If `pytest` is not on PATH, use:
+If command shortcuts are not available, use Python module form:
 
 ```powershell
+python -m uvicorn app_api.main:app --reload
+python -m streamlit run app_streamlit/app.py
 python -m pytest tests/test_api.py
 ```
 
@@ -212,56 +187,53 @@ Generates the reproducible synthetic dataset of 2,000 POP MART collector records
 ```text
 data/popmart_collectors.csv
 ```
-Stores the generated synthetic collector dataset.
+Stores the generated synthetic dataset.
 
 ```text
 scripts/train_model.py
 ```
-Trains the scikit-learn Pipeline with `OneHotEncoder`, `ColumnTransformer`, and `RandomForestClassifier`.
+Trains the scikit-learn pipeline and saves the trained model artifact.
 
 ```text
 model/model.pkl
 ```
-Stores the trained machine learning pipeline used by FastAPI.
+Stores the trained Random Forest pipeline used by FastAPI.
 
 ```text
 app_api/main.py
 ```
-Defines the FastAPI model-serving backend with `/`, `/health`, and `/predict`.
+Defines the FastAPI backend, API routes, request validation, model loading, and prediction response.
 
 ```text
 app_streamlit/app.py
 ```
-Defines the Streamlit dashboard. It sends prediction requests to the deployed FastAPI backend and displays collector profile results.
+Defines the Streamlit dashboard that calls the deployed FastAPI backend and displays the collector profile result.
 
 ```text
 tests/test_api.py
 ```
-Contains automated tests for FastAPI root, health, prediction, and validation behavior.
+Contains automated tests for API availability, prediction behavior, and request validation.
 
 ```text
 requirements.txt
 ```
-Lists Python dependencies needed for data generation, training, API serving, Streamlit, and testing.
+Lists Python dependencies for data generation, model training, API serving, dashboard UI, and testing.
 
 ```text
 Dockerfile
 ```
-Builds and runs the FastAPI backend on Hugging Face Spaces.
+Defines how Hugging Face Spaces builds and runs the FastAPI backend.
 
 ```text
 README.md
 ```
-Documents the project, architecture, usage, deployment, and Hugging Face Space metadata.
+Documents the project, run instructions, architecture, deployment, and Hugging Face Space metadata.
 
 ```text
 .gitignore
 ```
-Prevents local virtual environments, caches, and compiled Python files from being committed.
+Excludes virtual environments, cache files, and compiled Python files from version control.
 
 ## Model Disclaimer
 
 This is an educational mini project using synthetic data. Predictions are for demonstration purposes only.
-
-End-to-end MLOps mini project with FastAPI, Streamlit, Random Forest, Docker, and Hugging Face Spaces deployment.
-```
